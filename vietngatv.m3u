@@ -484,7 +484,7 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 group-title="🌈| Hoạt hình" tvg-id="zoomoo.id" tvg-logo="https://i.imgur.com/ciTJrnl.png",Zoo Moo Asia
 http://49.0.64.96:8007/Zoomoo
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://cdn.hqth.me/logo/category/itb.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
