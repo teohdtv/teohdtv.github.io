@@ -1,4 +1,4 @@
-https://hqth.me/Listiptvkhichtivim3u8
+https://hqth.me/listiptvkhichtivim3u8
 
 https://teohdtv.github.io/vietngatv.m3u
 
