@@ -96,9 +96,9 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2" group-title="💛| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://vc.101vn.com/htv/htvcmb.php?id=2535
+http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
+http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
@@ -180,7 +180,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
-https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/BRVT-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="🇻🇳| Địa phương",Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="🇻🇳| Địa phương",Bắc Ninh
@@ -224,9 +224,9 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/DONGTHAP-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/1naF5b7.png" group-title="🇻🇳| Địa phương",Đồng Tháp 2
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thdt2/index.m3u8
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://i.imgur.com/ZEAxzoF.png" group-title="🇻🇳| Địa phương",Gia Lai
 https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="hagiang" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="🇻🇳| Địa phương",Hà Giang
