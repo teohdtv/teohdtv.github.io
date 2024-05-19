@@ -460,7 +460,7 @@ http://ip168.homeip.net:8086/cinemax.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
+#EXTINF:-1 tvg-name="CGTN Documentary" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 http://103.130.141.67:81/live/4/playlist.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN English
 http://103.130.141.67:81/live/3/playlist.m3u8
