@@ -913,7 +913,7 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 tvg-id="hd-life" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/tKgmhxh.png",HDL
-http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+http://188.113.190.15/330/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 http://188.113.190.15/63/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",Terra
