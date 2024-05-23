@@ -569,7 +569,7 @@ http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
 
-#EXTINF:-1 tvg-id="pervy-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/tA84J3I.png",Первый канал
+#EXTINF:-1 tvg-id="pervy-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
 http://188.113.190.15/98/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/MfWQxD2.png",Россия РТР
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
