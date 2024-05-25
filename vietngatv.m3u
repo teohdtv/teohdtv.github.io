@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,https://live.hkdvb.com/epg/full.xml,https://iptvx.one/EPG,https://akkradet.github.io/IPTV-THAI/guide.xml,http://epg.ra1n.lol/jp.xml"
-#EXTM3U Luôn cập nhật kênh ổn định - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & tth.vn/vietngatv
+#EXTM3U Luôn cập nhật kênh ổn định - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 http://s4.nihontv.net:21585/vtv1/index.m3u8
