@@ -114,11 +114,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-http://s4.nihontv.net:21585/htv9/index.m3u8
+http://203.162.123.188:8080/htv9/index.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=teohdtv
 http://171.238.180.25:18080/304.m3u8
@@ -156,7 +154,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-http://s4.nihontv.net:21585/sctv9/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
