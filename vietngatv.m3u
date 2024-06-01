@@ -560,9 +560,9 @@ https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 
-#EXTINF:-1 tvg-id="spotv1" group-title="💚| SCTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV ASIA
+#EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/p1q77RO.png",SPOTV ASIA
 http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:-1 tvg-id="spotv2" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 ASIA
+#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
@@ -1047,23 +1047,23 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
 http://188.113.190.15/211/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="extreme-sports" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
+#EXTINF:-1 tvg-id="extreme-sports" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/wYuqDA7.png" group-title="💚| SCTV",Fast&Fun Box
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/wYuqDA7.png" group-title="⚽| Thể thao",Fast&Fun Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
 https://stream01.vnet.am/Fightbox/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-#EXTINF:-1 tvg-id="box-tv" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+#EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 tvg-id="football-ru" group-title="💚| SCTV" tvg-logo="https://i.imgur.com/pEuaZVx.png",Телеканал Футбол
+#EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:0 tvg-id="ufc" group-title="💚| SCTV" tvg-logo="https://epgx.site/p/ufc.png",Удар
+#EXTINF:0 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://epgx.site/p/ufc.png",Удар
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
 
