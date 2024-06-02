@@ -16,7 +16,5 @@ https://tinyurl.com/imediatv
 
 https://tinyurl.com/BIINN-OLD
 
-http://drm-play.com/android/drm-play.lite_1.56.apk
-
 
 
