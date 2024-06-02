@@ -121,11 +121,11 @@ http://171.238.180.25:18080/304.m3u8
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.67:30120
 #EXTINF:0 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.223:30120
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia Đình
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.64:30120
-#EXTINF:0 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+#EXTINF:0 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/SKeH11N.png",HTVC Phim
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.63:30120
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ Nữ
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.66:30120
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 http://8b00087781d2.sn.mynetname.net:8888/udp/225.1.4.62:30120
