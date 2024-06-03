@@ -687,7 +687,7 @@ http://188.113.190.15/331/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Music Box Russia
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Russian MusicBox
 http://188.113.190.15/158/mono.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
 http://188.113.190.15/324/tracks-v1a1/index.m3u8
