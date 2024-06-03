@@ -553,7 +553,7 @@ http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/hV4VIs2.png",Первый канал
+#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/021IBxT.png",Первый канал
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/5P046h1.png",Россия РТР
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
@@ -695,7 +695,7 @@ http://188.113.190.15/324/tracks-v1a1/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
 https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
-#EXTINF:-1 tvg-id="o2tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/CM6z7fA.png",О2 ТВ
+#EXTINF:-1 tvg-id="o2tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/iOBfaNA.png",О2 ТВ
 http://188.113.190.15/189/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qkLrxZf.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -998,7 +998,7 @@ http://188.113.190.15/83/tracks-v1a1/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
 http://146.158.0.56/ZvezdaPlus/mono.m3u8
-#EXTINF:-1 group-title="🤣| Giải trí" tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png",Лапки Live
+#EXTINF:-1 group-title="🤣| Giải trí" tvg-id="lapki-live" tvg-logo="https://i.imgur.com/SAEjD1n.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Vw3LFLX.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
