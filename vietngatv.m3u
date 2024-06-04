@@ -501,20 +501,19 @@ https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал (Петербург)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000003718.m3u8
+http://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000066.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
 https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QyZvT3e.png",Общественное Телевидение России
 http://31.148.6.9:10009/index.m3u8
-#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000112.m3u8
+#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ
 https://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/yY39nMg.png",СПАС ТВ
@@ -532,15 +531,13 @@ https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-kz" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/wL7YzlO.png",МИР
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002555.m3u8
-#EXTINF:-1 tvg-id="tnt-kz" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000007833.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/wL7YzlO.png",МИР
+http://188.113.190.15/217/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="tnt-int-by" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
+http://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000073.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/chetv/playlist.m3u8
@@ -548,9 +545,9 @@ http://edge02.odtv.az/o5/chetv/playlist.m3u8
 http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 tvg-id="perec-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/On6ggLe.png",Peretz International
 https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4 International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="2na2-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
