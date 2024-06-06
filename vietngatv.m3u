@@ -612,9 +612,9 @@ http://85.172.79.221:36037/live/iz/playlist_iz.m3u8
 https://cdn1.skygo.mn/live/disk1/MIR/HLS-FTA/MIR.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360.RU
+#EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/462BK5j.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360.RU
 http://146.158.0.56/360HD/index.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",360.RU Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/9BhhM7r.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",360.RU Новости
 http://188.113.190.15/226/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
 http://185.91.179.12/perviy_molodeginyi_3100kb.m3u8
