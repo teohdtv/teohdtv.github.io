@@ -259,9 +259,9 @@ https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="caobang" tvg-logo="https://i.imgur.com/qbI66HM.png" group-title="🇻🇳| Địa phương",Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
 #EXTINF:-1 tvg-id="danang1" tvg-logo="https://i.imgur.com/EdXvjrH.png" group-title="🇻🇳| Địa phương",Đà Nẵng 1
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.imgur.com/6SujuqZ.png" group-title="🇻🇳| Địa phương",Đà Nẵng 2
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="🇻🇳| Địa phương",Đắk Lắk
 https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/pP17qVw.png" group-title="🇻🇳| Địa phương",Đắk Nông
@@ -295,7 +295,7 @@ https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u
 #EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ui0sjEz.png",Hải Phòng+
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="haugiang" tvg-logo="https://i.imgur.com/foh5NTi.png" group-title="🇻🇳| Địa phương",Hậu Giang
-https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
+https://megasystems-f26642d913.gw-dthcdn.com/megalive/index.m3u8
 #EXTINF:-1 tvg-id="hoabinh" tvg-logo="https://i.imgur.com/Sz7yjI2.png" group-title="🇻🇳| Địa phương",Hòa Bình
 https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyen" tvg-logo="https://i.imgur.com/h6yWw44.png" group-title="🇻🇳| Địa phương",Hưng Yên
@@ -315,7 +315,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="🇻🇳| Địa phương",Lạng Sơn 
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocai" tvg-logo="https://i.imgur.com/cxzXszy.png" group-title="🇻🇳| Địa phương",Lào Cai
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+https://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png" group-title="🇻🇳| Địa phương",Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="namdinh" tvg-logo="https://i.imgur.com/juBOaJJ.png" group-title="🇻🇳| Địa phương",Nam Định
@@ -382,7 +382,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="bs_animax" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://devsy.pw/tvhd/215/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
@@ -525,7 +525,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
-http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 group-title="📦| In The Box" tvg-logo="https://i.imgur.com/rV9Q9bp.png",In The Box
 https://devsy.pw/tvhd/235/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
