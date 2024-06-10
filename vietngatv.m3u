@@ -83,7 +83,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
 
-#EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
+#EXTINF:-1 group-title="💚| SCTV" group-logo="https://teohdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://i.imgur.com/sa5Ix86.png",SCTV2
