@@ -66,19 +66,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
 
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
-https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/7zgsFIK.png",Truyền Hình Nhân Dân
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
@@ -108,7 +95,6 @@ https://1011154949.vnns.net/htvc/htvcoopsd.720p.nb.adm.tms/playlist.m3u8
 #EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=teohdtv
 http://171.238.180.25:18080/304.m3u8?AdaptiveType=HLS
-
 
 #EXTINF:-1 group-title="💚| SCTV" group-logo="https://teohdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
@@ -179,6 +165,19 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 #EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/7zgsFIK.png",Truyền Hình Nhân Dân
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl1/index.m3u8
