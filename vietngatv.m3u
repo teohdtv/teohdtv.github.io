@@ -84,6 +84,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
 http://203.162.123.188:8080/htv9/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
+#EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
+#EXTVLCOPT:http-user-agent=teohdtv
+http://171.238.180.25:18080/304.m3u8?AdaptiveType=HLS
 
 #EXTINF:-1 group-title="💚| SCTV" group-logo="https://teohdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
