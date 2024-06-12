@@ -555,7 +555,7 @@ https://api.wintv.me/360/239/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/category/itb.png",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/insxsGl.png",In The Box
 https://api.wintv.me/360/235/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://api.wintv.me/360/160/index.m3u8
