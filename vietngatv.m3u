@@ -53,13 +53,13 @@ https://api.wintv.me/360/170/index.m3u8
 https://api.wintv.me/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://api.wintv.me/360/187/index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 https://api.wintv.me/360/179/index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/uy69jTd.png",ON Life
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/uy69jTd.png",ON Life
 https://api.wintv.me/360/169/index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OLZc46Q.png",ON Golf 
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OLZc46Q.png",ON Golf 
 https://api.wintv.me/360/188/index.m3u8
-#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/v56ZNA8.png",BTV5
+#EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/v56ZNA8.png",BTV5
 https://api.wintv.me/360/2380/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
