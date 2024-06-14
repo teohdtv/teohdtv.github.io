@@ -71,7 +71,7 @@ https://api.wintv.me/360/197/index.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 https://api.wintv.me/360/198/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-https://api.wintv.me/360/199/index.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
 https://api.wintv.me/360/200/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
@@ -79,9 +79,9 @@ https://api.wintv.me/360/201/index.m3u8
 #EXTINF:-1 tvg-id="vtc8hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 https://api.wintv.me/360/202/index.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-https://api.wintv.me/360/203/index.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
-https://api.wintv.me/360/204/index.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc10/index.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 https://api.wintv.me/360/205/index.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
