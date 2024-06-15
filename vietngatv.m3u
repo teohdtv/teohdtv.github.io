@@ -43,6 +43,8 @@ https://api.wintv.me/360/189/index.m3u8
 https://api.wintv.me/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://api.wintv.me/360/184/index.m3u8
+#EXTINF:0 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+http://dinhdong.ddns.net:13579/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://api.wintv.me/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
@@ -238,6 +240,10 @@ https://api.wintv.me/360/220/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1
 https://api.wintv.me/360/32/index.m3u8
+#EXTINF:0 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",YouTV
+http://dinhdong.ddns.net:13579/udp/225.1.4.222:30120
+#EXTINF:0 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+http://dinhdong.ddns.net:13579/udp/225.1.4.40:30120
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
@@ -259,6 +265,8 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="🇻🇳| Địa phương",Bình Dương 2
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
+#EXTINF:0 tvg-id="anvienhd" tvg-logo="https://i.imgur.com/jeunb3Y.png" group-title="🇻🇳| Địa phương",BTV9 An Viên HD
+http://dinhdong.ddns.net:13579/udp/225.1.4.99:30120
 #EXTINF:-1 tvg-id="binhphuoc1" tvg-logo="https://i.imgur.com/2zISucM.png" group-title="🇻🇳| Địa phương",Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hometvbptv2" tvg-logo="https://i.imgur.com/LsDFD9J.png" group-title="🇻🇳| Địa phương",Bình Phước 2
@@ -400,9 +408,17 @@ https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://api.wintv.me/360/215/index.m3u8
+#EXTINF:0 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
+http://dinhdong.ddns.net:13579/udp/225.1.4.9:30120
 #EXTINF:0 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+#EXTINF:0 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
+http://dinhdong.ddns.net:13579/udp/225.1.4.29:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+http://dinhdong.ddns.net:13579/udp/225.1.4.21:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+http://dinhdong.ddns.net:13579/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
@@ -415,6 +431,8 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 tvg-id="CNBCAsia.sg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC Asia
+http://dinhdong.ddns.net:13579/udp/225.1.4.77:30120
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -444,6 +462,8 @@ https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WuOhLl4.png",Discovery Turbo Asia
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:0 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+http://dinhdong.ddns.net:13579/udp/225.1.4.39:30120
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Dubai TV International
@@ -512,6 +532,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="🤣| Giải trí",World Fashion Channel
 http://live-3.otcnet.ru/wfcint/index.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Waner Bros TV
+http://dinhdong.ddns.net:13579/udp/225.1.4.14:30120
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://i.imgur.com/V0l9O6g.png" group-title="🤣| Giải trí",Xing Kong International
