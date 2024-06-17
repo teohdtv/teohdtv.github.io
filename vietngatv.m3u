@@ -235,7 +235,7 @@ https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
 https://api.wintv.me/360/220/index.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1
+#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
 https://api.wintv.me/360/32/index.m3u8
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
