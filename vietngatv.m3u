@@ -417,7 +417,8 @@ http://dinhdong.ddns.net:13579/udp/225.1.4.21:30120
 #EXTINF:0 tvg-id="BBCLifestyleAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
 http://dinhdong.ddns.net:13579/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 https://i.mjh.nz/bloomberg-tv.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
