@@ -578,8 +578,8 @@ https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/wL7YzlO.png",МИР
 http://188.113.190.15/217/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="tnt-int-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International
-http://85.49.100.235:5120/bysid/1703
+#EXTINF:-1 tvg-id="tnt-pl7" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
+http://188.113.190.15/19/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
