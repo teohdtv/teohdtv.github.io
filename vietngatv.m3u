@@ -2,15 +2,15 @@
 #EXTM3U Luôn cập nhật kênh ổn định - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
-http://103.124.94.248/vtv1?token=live
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/53.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
-http://103.124.94.248/vtv2?token=live
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/54.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
-http://103.124.94.248/vtv3?token=live
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/55.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
-https://api.wintv.me/360/108/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/56.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5
-https://api.wintv.me/360/110/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/9.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ
 http://171.238.181.52:18080/307_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên
@@ -18,11 +18,11 @@ http://171.238.181.52:18080/308_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ
 http://171.238.181.52:18080/156_2.m3u8?AdaptiveType=HLS
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7
-https://api.wintv.me/360/6/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/58.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8
-https://api.wintv.me/360/115/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/59.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9
-https://api.wintv.me/360/8/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/60.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 https://api.wintv.me/360/180/index.m3u8
@@ -396,15 +396,13 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="10000000024790000" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
+http://103.77.241.152:1234/stream/animax/stream.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://api.wintv.me/360/215/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
+http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
@@ -423,11 +421,9 @@ https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
+http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/cworld/index.m3u8
+http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -447,8 +443,7 @@ https://api.wintv.me/360/214/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://khanggtivi.xyz/vuminhthanh/vmt2024/discoveryasia/index.m3u8
+http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel Asia
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
@@ -547,7 +542,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-https://api.wintv.me/360/239/index.m3u8
+http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
