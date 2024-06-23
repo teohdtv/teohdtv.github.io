@@ -42,7 +42,7 @@ https://api.wintv.me/360/189/index.m3u8
 https://api.wintv.me/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://api.wintv.me/360/184/index.m3u8
-#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+#EXTINF:0 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://api.wintv.me/360/185/index.m3u8
@@ -199,11 +199,11 @@ https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
 https://api.wintv.me/360/220/index.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
+#EXTINF:-1 tvg-id="hitv" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
 https://api.wintv.me/360/32/index.m3u8
-#EXTINF:0 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",YouTV
+#EXTINF:0 tvg-id="youtv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/jUl8zK4.png",YouTV
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.222:30120
-#EXTINF:0 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+#EXTINF:0 tvg-id="" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.40:30120
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
@@ -371,7 +371,7 @@ http://103.77.241.152:1234/stream/animax/stream.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://api.wintv.me/360/215/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
 http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
