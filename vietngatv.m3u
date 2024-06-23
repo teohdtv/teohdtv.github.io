@@ -307,7 +307,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u
 #EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="🇻🇳| Địa phương",Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="phutho" tvg-logo="https://i.imgur.com/LXuRwJY.png" group-title="🇻🇳| Địa phương",Phú Thọ
-https://ott3.nethubtv.vn/live/phuthotv/playlist.m3u8
+https://api.wintv.me/360/77/index.m3u8
 #EXTINF:-1 tvg-id="phuyen" tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="🇻🇳| Địa phương",Phú Yên
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="quangbinh" tvg-logo="https://i.imgur.com/JCFsITk.png" group-title="🇻🇳| Địa phương",Quảng Bình
@@ -323,9 +323,9 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="quangtri" tvg-logo="https://i.imgur.com/xl4m2mn.png" group-title="🇻🇳| Địa phương",Quảng Trị
 http://quangtritv.vn/tv/tvvnpt2024.m3u8
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",Sóc Trăng 1
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+https://api.wintv.me/360/84/index.m3u8
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/v8tT6KL.png" group-title="🇻🇳| Địa phương",Sóc Trăng 2
-https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+https://pa.thst.vn/hls-live/streams/livepkgr/events/_definst_/liveevent/livestreamstv2Num1435453.ts
 #EXTINF:-1 tvg-id="sonla" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="🇻🇳| Địa phương",Sơn La
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 tvg-id="tayninh" tvg-logo="https://i.imgur.com/8rGiYuk.png" group-title="🇻🇳| Địa phương",Tây Ninh
