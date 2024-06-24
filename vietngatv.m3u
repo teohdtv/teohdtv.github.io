@@ -605,9 +605,9 @@ https://edge02.odtv.az/o7/rutv/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/5VpO0OH.png",RU.TV HD
 http://188.113.190.15/59/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК
-http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/bvuV8UG.png",Телеканал Известия
-http://85.172.79.221:36037/live/iz/playlist_iz.m3u8
+http://31.148.6.9:10022/index.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 https://cdn1.skygo.mn/live/disk1/MIR/HLS-FTA/MIR.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
