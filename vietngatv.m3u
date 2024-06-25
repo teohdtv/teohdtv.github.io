@@ -375,7 +375,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 #EXTINF:0 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.29:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.21:30120
+http://103.77.241.152:1234/stream/bbcearth/stream.m3u8
 #EXTINF:0 tvg-id="bbclifestyle" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
 http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
@@ -509,7 +509,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
+https://api.wintv.me/360/239/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
