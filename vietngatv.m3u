@@ -42,6 +42,8 @@ https://api.wintv.me/360/189/index.m3u8
 https://api.wintv.me/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://api.wintv.me/360/184/index.m3u8
+#EXTINF:0 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://api.wintv.me/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
@@ -237,6 +239,8 @@ https://api.wintv.me/360/220/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
 https://api.wintv.me/360/32/index.m3u8
+#EXTINF:0 tvg-id="" group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.40:30120
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
@@ -408,6 +412,12 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
+#EXTINF:0 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.29:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.21:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
@@ -426,6 +436,8 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/cworld/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.77:30120
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -443,6 +455,8 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia HD
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.208:30120
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
