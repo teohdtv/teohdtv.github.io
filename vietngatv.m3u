@@ -12,11 +12,11 @@ https://api.wintv.me/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5
 https://api.wintv.me/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ
-http://171.238.181.52:18080/307.m3u8
+https://api.wintv.me/taynambo/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên
-http://171.238.181.52:18080/308.m3u8
+https://api.wintv.me/taynguyen/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ
-http://171.238.181.52:18080/156.m3u8
+https://api.wintv.me/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7
 https://api.wintv.me/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8
