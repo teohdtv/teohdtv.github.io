@@ -138,8 +138,7 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="Khác" tvg-logo="https://i.imgur.com/78fQx65.png", HiTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="hitv" group-title="Khác" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV HD
 https://wintv.fun/360/32/index.m3u8
 #EXTINF:0 group-title="Khác" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
 http://118.68.59.9:4000/udp/225.1.4.40:30120
