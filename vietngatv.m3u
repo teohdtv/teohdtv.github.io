@@ -42,7 +42,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab9/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab12/index.m3u8
-#EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/OSK4RXT.png",ON HOME SHOPPING
+#EXTINF:0 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png",ON HOME SHOPPING
 http://118.68.59.9:4000/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab15/index.m3u8
