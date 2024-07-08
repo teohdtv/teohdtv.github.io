@@ -10,18 +10,18 @@ http://103.170.123.44/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
 https://api.wintv.me/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5
-https://api.wintv.me/vtv5/index.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ
 https://api.wintv.me/taynambo/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên
 https://api.wintv.me/taynguyen/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png",VTV Cần Thơ
 https://api.wintv.me/vtv6/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://api.wintv.me/vtv7/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 https://api.wintv.me/vtv8/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://api.wintv.me/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
