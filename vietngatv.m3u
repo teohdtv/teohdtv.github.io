@@ -40,6 +40,8 @@ https://api.wintv.me/360/189/index.m3u8
 https://api.wintv.me/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://api.wintv.me/360/184/index.m3u8
+#EXTINF:0 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab13
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
 https://api.wintv.me/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
@@ -127,6 +129,8 @@ https://api.wintv.me/360/132/index.m3u8
 https://api.wintv.me/360/232/index.m3u8
 #EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1
 https://api.wintv.me/360/32/index.m3u8
+#EXTINF:0 group-title="Khác" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.40:30120
 
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
@@ -171,7 +175,6 @@ https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="🇻🇳| Địa phương",Bình Dương 2
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Khác" tvg-logo="https://i.imgur.com/jeunb3Y.png", BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wintv.fun/360/151/index.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" tvg-logo="https://i.imgur.com/2zISucM.png" group-title="🇻🇳| Địa phương",Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -245,6 +248,8 @@ https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u
 https://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png" group-title="🇻🇳| Địa phương",Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+#EXTINF:0 tvg-id="namdinh" tvg-logo="https://i.imgur.com/qW62XEm.png" group-title="🇻🇳| Địa phương",Nam Định
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.145:30120
 #EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="🇻🇳| Địa phương",Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/5F8W6WX.png" group-title="🇻🇳| Địa phương",Ninh Bình 
@@ -323,7 +328,7 @@ http://103.183.118.124:1234/stream/bbclifestyle/stream.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-https://i.mjh.nz/bloomberg-tv.m3u8
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.18:30120
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
@@ -354,6 +359,8 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia HD
+http://homelab.nguyenvinh.id.vn:4022/udp/225.1.4.208:30120
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
