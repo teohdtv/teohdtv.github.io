@@ -141,9 +141,6 @@ https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="hitv" group-title="Khác" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV HD
-https://wintv.fun/360/32/index.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
 https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
