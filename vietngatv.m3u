@@ -358,6 +358,8 @@ http://103.183.118.124:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/vFVxJx4.png",CinemaWorld
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/cworld/index.m3u8
+#EXTINF:0 tvg-id="CNBCAsia.sg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
+http://ntdung.duckdns.org:27589/udp/225.1.4.77:30120
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
