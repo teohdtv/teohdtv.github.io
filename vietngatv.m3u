@@ -2,13 +2,11 @@
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8?
+http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8?
+http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
-http://103.170.123.44/vtv3?token=live
+http://p1.cvtv.xyz/v3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8?
@@ -118,7 +116,7 @@ https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/htv4/index.m3u8?
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
-http://103.101.162.86/htv7?token=live
+http://p1.cvtv.xyz/htv7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8?
