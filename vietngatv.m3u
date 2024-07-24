@@ -325,6 +325,12 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
 http://p2.cvtv.xyz:81/c4?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16
+https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax Asia
