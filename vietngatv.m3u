@@ -1,6 +1,41 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Paris Live 1
+http://p2.cvtv.xyz:82/olym1?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png",Paris Live 2
+http://p2.cvtv.xyz:82/olym2?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live3.png",Paris Live 3
+http://p2.cvtv.xyz:82/olym3?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live4.png",Paris Live 4
+http://p2.cvtv.xyz:82/olym4?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live5.png",Paris Live 5
+http://p2.cvtv.xyz:82/olym5?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live6.png",Paris Live 6
+http://p2.cvtv.xyz:82/olym6?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live7.png",Paris Live 7
+http://p2.cvtv.xyz:82/olym7?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live8.png",Paris Live 8
+http://p2.cvtv.xyz:82/olym8?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live9.png",Paris Live 9
+http://p2.cvtv.xyz:82/olym9?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live10.png",Paris Live 10
+http://p2.cvtv.xyz:82/olym10?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live11.png",Paris Live 11
+http://p2.cvtv.xyz:82/olym11?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live12.png",Paris Live 12
+http://p2.cvtv.xyz:82/olym12?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live13.png",Paris Live 13
+http://p2.cvtv.xyz:82/olym13?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live14.png",Paris Live 14
+http://p2.cvtv.xyz:82/olym14?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live15.png",Paris Live 15
+http://p2.cvtv.xyz:82/olym15?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live16.png",Paris Live 16
+http://p2.cvtv.xyz:82/olym16?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live17.png",Paris Live 17
+http://p2.cvtv.xyz:82/olym17?token=live
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p2.cvtv.xyz/vtv1?token=live
@@ -318,19 +353,13 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-https://i.mjh.nz/bloomberg-tv.m3u8
+http://p2.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
 http://p2.cvtv.xyz:81/c4?token=live
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
-https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16
-https://node3.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/c8crJfA.png",Cinemax Asia
