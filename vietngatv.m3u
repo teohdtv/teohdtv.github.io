@@ -187,7 +187,7 @@ http://wintv.fun/360/26/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3
 http://wintv.fun/360/219/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4
-http://wintv.fun/360/220/index.m3u8
+https://api.wintv.me/vl4/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV | TH An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -281,7 +281,7 @@ https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/kETe9LN.png",CRTV HD | TH Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV | TH Điện Biên
-http://wintv.fun/360/52/index.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/zXqjjUf.png",HGTV HD | TH Hà Giang
 http://wintv.fun/360/56/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/NgcSFah.png",THHN HD | TH Hà Nam
@@ -321,7 +321,7 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Fse70QS.png",TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV HD | TH Thanh Hóa
-http://wintv.fun/360/88/index.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/qPZeGPa.png",TTV HD | TH Tuyên Quang
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/CXUvMX2.png",VP HD | TH Vĩnh Phúc
