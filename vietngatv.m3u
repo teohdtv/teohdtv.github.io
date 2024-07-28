@@ -402,7 +402,7 @@ http://p1.cvtv.xyz:81/euro?token=live
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV Asia
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+http://p1.cvtv.xyz:81/f24?token=live
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
