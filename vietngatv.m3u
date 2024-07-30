@@ -355,6 +355,10 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
 http://p1.cvtv.xyz:81/c4?token=live
+#EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
+https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
+https://cdn1.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
