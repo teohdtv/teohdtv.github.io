@@ -768,8 +768,6 @@ http://45.159.74.14/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬| Phim truyện",НТВ СЕРИАЛ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
-http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 http://188.113.190.15/48/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/iKPfM5K.png",Любимое кино
@@ -930,6 +928,8 @@ https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🤣| Giải trí",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002761.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="🤣| Giải trí",Открытый мир. Здоровье
 http://178.16.151.67/otkr_mir/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="🤣| Giải trí",Сарафан
