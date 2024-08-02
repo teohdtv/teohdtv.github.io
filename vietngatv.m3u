@@ -87,17 +87,18 @@ http://wintv.fun/360/17/index.m3u8
 http://wintv.fun/360/18/index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://teohdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
-https://vc.101vn.com/htv/htvcmb.php?id=2631
+http://wintv.fun/360/190/index.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="💛| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://vc.101vn.com/htv/htvcmb.php?id=2669
+http://wintv.fun/360/191/index.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://vc.101vn.com/htv/htvcmb.php?id=2535
+http://wintv.fun/360/192/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
+http://wintv.fun/360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
+http://wintv.fun/360/193/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 group-title="💛| HTV" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
