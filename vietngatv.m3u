@@ -613,8 +613,7 @@ https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 #EXTINF:-1 tvg-id="o2tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/iOBfaNA.png",О2 ТВ
 http://188.113.190.15/189/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qkLrxZf.png",Шансон ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
+http://146.158.0.56/ShansonTV/mono.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/41K9Y2s.png",Жара
 http://178.16.151.67/jara/index.m3u8
 
@@ -906,6 +905,8 @@ http://31.148.48.15:80/Sarafan/index.m3u8?token=test
 http://188.113.190.15/214/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/1H3h1HL.png",Телекафе
 https://cdn1.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://epgx.site/p/centralnoye-tv.png",Центральное ТВ
+http://188.113.190.15/228/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/uSA9fzL.png",24KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
