@@ -360,8 +360,7 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
+http://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
@@ -477,17 +476,13 @@ https://api.wintv.me/360/135/index.m3u8
 https://api.wintv.me/360/163/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/021IBxT.png",Первый канал СНГ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
+http://sc.id-tv.kz/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/5P046h1.png",Россия РТР
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
+http://sc.id-tv.kz/RossiyaRTR_34_35.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000079.m3u8
-#EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000003718.m3u8
+http://sc.id-tv.kz/NTV_34_35.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru-pl7" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал
+http://188.113.190.15/5/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия Культура
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
@@ -495,8 +490,7 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель International
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://bkm.beetv.kz/btv/live/hls/000000781.m3u8
+http://sc.id-tv.kz/Karusel_36_37.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QyZvT3e.png",Общественное Телевидение России
 http://31.148.6.9:10009/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр Москва
@@ -509,12 +503,10 @@ http://edge02.odtv.az/o2/rentv/playlist.m3u8
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС International
 https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002348.m3u8
-#EXTINF:-1 tvg-id="tv3-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3 International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000004712.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний
+http://178.16.151.67/domashniy/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
+http://178.16.151.67/tv3/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница International
 https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
@@ -523,8 +515,7 @@ https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/wL7YzlO.png",МИР
 http://178.16.151.67/mir/index.m3u8
 #EXTINF:-1 tvg-id="tnt-kz" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ International
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000007833.m3u8
+http://sc.id-tv.kz/tntComedy.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
@@ -539,8 +530,7 @@ https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://178.16.151.67/2x2/index.m3u8
 #EXTINF:-1 tvg-id="super" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
@@ -567,8 +557,7 @@ http://146.158.0.56/360HD/index.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/9BhhM7r.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",360.RU Новости
 http://188.113.190.15/226/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001564.m3u8
+http://85.49.100.235:5120/bysid/1718
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/jhqLy0N.png",Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Енисей
@@ -617,8 +606,7 @@ http://188.113.190.15/331/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
 http://178.16.151.67/europa-plus-tv/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
+http://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png",Russian Music Box
 http://188.113.190.15/158/mono.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
@@ -648,11 +636,7 @@ http://188.113.190.15/102/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="fanhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/mDeTbaF.png",FAN
 http://178.16.151.67/fan/index.m3u8
 #EXTINF:-1 tvg-id="gulli-girl" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002762.m3u8
+http://sc.id-tv.kz/Gulli_34_35.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
 http://188.113.190.15/87/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
@@ -662,8 +646,8 @@ http://188.113.190.15/108/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/pDc665V.png",О!
 http://188.113.190.15/136/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/aHpwsM2.png",Рыжий
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001445.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир
 http://45.159.74.14/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="solnce-pl7" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
@@ -694,8 +678,7 @@ http://188.113.190.15/84/mono.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
 http://188.113.190.15/212/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="flixsnip" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/UVKX2rd.png",FlixSnip
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
+http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood
 https://stream01.vnet.am/ParamountChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/V1kDv8H.png",Plan B
@@ -707,8 +690,7 @@ http://178.16.151.67/start_air/index.m3u8
 #EXTINF:-1 tvg-id="start-world" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TXtY5eM.png",START World
 http://178.16.151.67/start_world/index.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jnUD3ak.png",Trash
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
+http://94.232.104.237:8011/foxlifehd/index.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",Viju+ Comedy
 http://188.113.190.15/203/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/oIQNddV.png",Viju+ Megahit
@@ -750,18 +732,15 @@ http://188.113.190.15/57/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/dVjtth0.png",Кинокомедия
 http://45.159.74.14/Kinokomedia/index.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬| Phim truyện",НТВ СЕРИАЛ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
+http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 http://188.113.190.15/48/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/iKPfM5K.png",Любимое кино
 http://188.113.190.15/53/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uzj7wVp.png",Мир сериала
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000319.m3u8
+http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
 #EXTINF:-1 tvg-id="mosfilm" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/95Y8jb6.png",Мосфильм. Золотая коллекция
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+http://185.112.140.28:80/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8RN3tQC.png",Мужское кино
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="🎬| Phim truyện",Индия
@@ -810,8 +789,7 @@ http://188.113.190.15/32/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="zoopark" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПaрк
 http://188.113.190.15/46/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXSXmN2.png",АВТО 24
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000815.m3u8
+http://sc.id-tv.kz/Avto24.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
 http://188.113.190.15/83/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="bobior" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
@@ -822,16 +800,12 @@ http://188.113.190.15/20/tracks-v1a1/index.m3u8
 https://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/e3BFVgt.png",Дикая рыбалка
 https://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/OuBtnGU.png",Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000003174.m3u8
 #EXTINF:-1 tvg-id="doktor" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор
 http://178.16.151.67/doctor/index.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ISJzQGP.png",Домашние животные
 http://188.113.190.15/72/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
+http://185.112.140.28:80/Glazami_Turista/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
 http://188.113.190.15/96/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Телеканал Арсенал
@@ -852,8 +826,7 @@ http://188.113.190.15/206/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
 https://stream01.vnet.am/PriklyucheniyaHd/playlist.m3u8
 #EXTINF:-1 tvg-id="oruzhie" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/lfJQJqa.png",Оружие
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
+http://45.93.46.27:8887/8206/video.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
 http://188.113.190.15/69/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
@@ -861,8 +834,7 @@ http://178.16.151.67/ohotnik/index.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
 https://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000289.m3u8
+http://sc.id-tv.kz/Zagorod.m3u8
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="🌿| Khám phá",Зоо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s92/04.m3u8
@@ -875,24 +847,18 @@ http://188.113.190.15/40/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
 https://stream01.vnet.am/ZooTv/playlist.m3u8
 #EXTINF:-1 tvg-id="uspex" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/o3K1h5Q.png",Успех
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000288.m3u8
+http://146.158.0.56:80/Uspeh/index.m3u8
 #EXTINF:-1 tvg-id="zhivi" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/LPqySGk.png",Живи
 http://178.16.151.67/jivi/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/onNv1tM.png",Живая Планета
 http://188.113.190.15/89/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая Природа
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001187.m3u8
+http://178.212.71.253:8002/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="mir-uvlecheniy" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/kx3NKXe.png",#Ктокуда
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001377.m3u8
+http://146.158.0.56/MirUvlecheniy/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
 http://188.113.190.15/83/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="anekdottv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/wKfB79s.png",Анекдот ТВ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 tvg-id="acb-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/zmnSoBA.png",Девятая Волна
 http://178.16.151.67/9-volna/index.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
@@ -907,11 +873,9 @@ http://188.113.190.15/64/tracks-v1a1/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🤣| Giải trí",НТВ ПРАВО
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
+http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🤣| Giải trí",НТВ Стиль
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000002761.m3u8
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
 http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="🤣| Giải trí",Открытый мир. Здоровье
@@ -931,9 +895,6 @@ https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/TTEQfV1.png",Silk Way TV
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="rtvi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1AEhXyS.png",RTVi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 tvg-id="ua-tv" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/38UPLa9.png",UA WORLD TV
 http://210.210.155.35/uq2663/h/h101/index.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
@@ -959,8 +920,7 @@ http://178.16.151.67/rus-extrim/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/nyn6j32.png",Удар
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
+http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
 http://media.kythuatvov.vn:7001/;stream/
