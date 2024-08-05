@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml,https://xmltv.tvkaista.net/guides/tvguide.myjcom.jp.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
+#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d1/2024_Summer_Olympics_logo.svg/1200px-2024_Summer_Olympics_logo.svg.png",Olympic Event
+http://p2.cvtv.xyz:83/event?token=live2
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
 http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
@@ -955,38 +958,3 @@ https://ep128.hostingradio.ru:8030/ep128
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio" radio="true",Радио Орфей
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Paris Live 1
-http://p2.cvtv.xyz:83/olym1?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png",Paris Live 2
-http://p2.cvtv.xyz:83/olym2?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live3.png",Paris Live 3
-http://p2.cvtv.xyz:83/olym3?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live4.png",Paris Live 4
-http://p2.cvtv.xyz:83/olym4?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live5.png",Paris Live 5
-http://p2.cvtv.xyz:83/olym5?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live6.png",Paris Live 6
-http://p2.cvtv.xyz:83/olym6?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live7.png",Paris Live 7
-http://p2.cvtv.xyz:83/olym7?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live8.png",Paris Live 8
-http://p2.cvtv.xyz:83/olym8?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live9.png",Paris Live 9
-http://p2.cvtv.xyz:83/olym9?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live10.png",Paris Live 10
-http://p2.cvtv.xyz:83/olym10?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live11.png",Paris Live 11
-http://p2.cvtv.xyz:83/olym11?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live12.png",Paris Live 12
-http://p2.cvtv.xyz:83/olym12?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live13.png",Paris Live 13
-http://p2.cvtv.xyz:83/olym13?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live14.png",Paris Live 14
-http://p2.cvtv.xyz:83/olym14?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live15.png",Paris Live 15
-http://p2.cvtv.xyz:83/olym15?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live16.png",Paris Live 16
-http://p2.cvtv.xyz:83/olym16?token=live
-#EXTINF:-1 group-title="OLYMPIC MÙA HÈ 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live17.png",Paris Live 17
-http://p2.cvtv.xyz:83/olym17?token=live
