@@ -340,6 +340,8 @@ http://p1.cvtv.xyz/c5?token=live
 http://p1.cvtv.xyz/c5p?token=live
 #EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
 https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13
+http://p1.cvtv.xyz:81/c13?token=live
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
 https://cdn1.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="CCTV16" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16
