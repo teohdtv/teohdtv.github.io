@@ -513,10 +513,10 @@ http://edge02.odtv.az/o2/rentv/playlist.m3u8
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС International
 https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний
-http://178.16.151.67/domashniy/index.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
-http://178.16.151.67/tv3/index.m3u8
+#EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний International
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3 International
+http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница International
 https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
