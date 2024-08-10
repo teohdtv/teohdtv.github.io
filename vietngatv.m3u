@@ -42,10 +42,13 @@ http://p2.cvtv.xyz:82/olym19?token=live
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
-https://api.wintv.me/360/3/index.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -141,7 +144,8 @@ https://api.wintv.me/360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 https://api.wintv.me/360/193/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-http://api.wintv.me/360/194/index.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 group-title="💛| HTV" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
@@ -368,18 +372,12 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
 https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
-#EXTINF:-1 tvg-id="CCTV5" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5
-http://p1.cvtv.xyz/c5?token=live
-#EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
-http://p1.cvtv.xyz/c5p?token=live
 #EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
 https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV13" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13
 http://112.123.206.32:808/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
 https://cdn1.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV16" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZzV6JQp.png",CCTV-16
-http://p1.cvtv.xyz/c16?token=live
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
@@ -537,7 +535,7 @@ https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.
 https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QyZvT3e.png",Общественное Телевидение России
 http://31.148.6.9:10009/index.m3u8
-#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр Int.
+#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр Европа
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/tvc/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ
