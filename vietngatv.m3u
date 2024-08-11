@@ -394,9 +394,7 @@ http://sc.id-tv.kz/DaVinci_34_35.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery SD Asia
-http://s4.nihontv.net:21585/discovery/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD Asia
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel Asia
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
