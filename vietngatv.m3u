@@ -667,14 +667,6 @@ http://188.190.222.48:8765/Start_Air/tracks-v1a1/mono.m3u8
 http://188.190.222.48:8765/Start_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trashtv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jnUD3ak.png",Trash
 http://94.232.104.237:8011/foxlifehd/index.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",Viju+ Comedy
-http://91.205.199.3/vipcomedi/index.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/oIQNddV.png",Viju+ Megahit
-http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1 tvg-id="vip-premiere" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/klRvhR5.png",Viju+ Premiere
-http://45.93.46.27:8887/8119/video.m3u8
-#EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8yXZET5.png",Viju+ Serial
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",Viju TV1000
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/tv1000/playlist.m3u8
@@ -683,6 +675,14 @@ http://91.205.199.3:80/tv1000action/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Meak2y4.png",Viju TV1000 Русское
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/tv1000rukino/playlist.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",Viju+ Comedy
+http://91.205.199.3/vipcomedi/index.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/oIQNddV.png",Viju+ Megahit
+http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/klRvhR5.png",Viju+ Premiere
+http://45.93.46.27:8887/8119/video.m3u8
+#EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8yXZET5.png",Viju+ Serial
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Fja4bWt.png",XXI
 http://45.93.46.27:8887/8213/video.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
