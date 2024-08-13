@@ -470,8 +470,8 @@ http://api.wintv.me/360/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 http://api.wintv.me/360/163/index.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/021IBxT.png",Первый канал
-https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/021IBxT.png",Первый канал СНГ
+http://sc.id-tv.kz/1KanalVsemSet_36_37.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/5P046h1.png",Россия РТР
 https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
