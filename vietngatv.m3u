@@ -2,11 +2,11 @@
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
-http://api.wintv.me/360/2/index.m3u8
+http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2
 http://api.wintv.me/360/3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
-http://api.wintv.me/360/4/index.m3u8
+http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
 http://api.wintv.me/360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5
@@ -25,7 +25,7 @@ http://api.wintv.me/360/115/index.m3u8
 http://api.wintv.me/360/8/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-http://api.wintv.me/360/180/index.m3u8
+http://p1.cvtv.xyz/vie?token=live
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 http://api.wintv.me/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
@@ -97,7 +97,7 @@ http://api.wintv.me/360/192/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 http://api.wintv.me/360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-http://api.wintv.me/360/193/index.m3u8
+http://p1.cvtv.xyz/htv7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 http://api.wintv.me/360/194/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
@@ -315,7 +315,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+http://p2.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
@@ -323,7 +323,7 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
-https://github.com/ChiSheng9/iptv/raw/master/TV20.m3u8
+http://p2.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
 https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
@@ -331,7 +331,7 @@ https://cdn1.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
-http://37.27.111.214:8080/live/102/hls.m3u8
+http://p2.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
@@ -403,7 +403,7 @@ https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
 http://api.wintv.me/360/216/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
-http://p1.cvtv.xyz:81/skn?token=live
+http://p2.cvtv.xyz:81/skn?token=live
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/tYr9IVZ.png",Phoenix Chinese
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/CAcJfPZ.png",Phoenix Infonews
