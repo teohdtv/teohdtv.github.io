@@ -62,7 +62,7 @@ http://api.wintv.me/360/188/index.m3u8
 http://api.wintv.me/360/2380/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-http://api.wintv.me/360/16/index.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 http://api.wintv.me/360/196/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
