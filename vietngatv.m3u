@@ -644,10 +644,12 @@ http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 https://stream01.vnet.am/Nauka/playlist.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/UUjehw9.png",Amedia Premium
 https://stream01.vnet.am/AmediaPremium/playlist.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="🎬| Phim truyện" tvg-id="BollywoodHD.ru" tvg-logo="https://i.imgur.com/scDKOLS.png",BollywooD
+https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YdIHXOR.png",Bolt
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
-#EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/b5e9qUA.png",Cinema
+#EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/sP15Oc9.png",Cinema
 https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/UVKX2rd.png",FlixSnip
 http://sc.id-tv.kz/FlixSnip.m3u8
