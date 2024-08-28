@@ -8,6 +8,7 @@ http://p1.cvtv.xyz/vtv1?token=live
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4
 http://api.wintv.me/360/108/index.m3u8
