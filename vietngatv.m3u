@@ -304,12 +304,16 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="Animax.jp" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
 https://thvip.site/360/215/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
 #EXTINF:-1 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
@@ -318,8 +322,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 http://p2.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
-http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
@@ -363,6 +365,9 @@ https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+#EXTINF:0 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Dubai
 http://dmisxthvll.cdn.mangomolo.com/dubaitvht/dubaitv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English
@@ -374,6 +379,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC28/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="🌿| Khám phá",HGTV Asia
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/L8JPlBj.png",History Asia
@@ -427,6 +435,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC4/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/cwC7Q2V.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner Bros TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="🤣| Giải trí",World Fashion Channel
 http://live-3.otcnet.ru/wfcint/index.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
@@ -856,25 +867,23 @@ http://media.kythuatvov.vn:7001/;stream/
 http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/iFbX0ZH.png" radio="true",Радио Вести FM
+#EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/iFbX0ZH.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/Wr2gxLl.png" radio="true",Радио Маяк
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/Wr2gxLl.png" radio="true",Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://i.imgur.com/P0In2kv.png" radio="true",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/kgHh8C5.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
+#EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/PlAiIoT.png" radio="true",Радио Европа Плюс
+https://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="http://i.imgur.com/TUKLarg.jpg" radio="true",Новое Радио
 http://stream.newradio.ru/moscow.novoe.aacp
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio" radio="true",Радио Орфей
+https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="📻| Radio" radio="true",Радио Страна FM
+http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/QX43rbX.png" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="📻| Radio" radio="true",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="📻| Radio" radio="true",Радио Страна FM
-http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/PlAiIoT.png" radio="true",Радио Европа Плюс
-https://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://i.imgur.com/SPaSFKm.png" group-title="📻| Radio" radio="true",Авторадио
-http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio" radio="true",Радио Орфей
-https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
