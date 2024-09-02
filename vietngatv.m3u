@@ -876,10 +876,6 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 https://stream01.vnet.am/Fightbox/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="kxl" tvg-logo="https://i.imgur.com/RgdHdOV.png",KHL
 https://stream2.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="setanta-sports" tvg-logo="https://i.imgur.com/8ANUZAu.png",Setanta Sports 1
-https://stream2.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="setanta-sports-plus" tvg-logo="https://i.imgur.com/NOBACb6.png",Setanta Sports 2
-https://stream2.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="trace-sport-stars" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sport Stars
 https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
