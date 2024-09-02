@@ -617,7 +617,7 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир
 http://45.159.74.14/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="solnce" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
-http://188.190.222.48:8765/Solnce/tracks-v1a1/mono.m3u8
+http://91.205.199.3/disney/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
 http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detsky" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kSJZjDL.png",УНИКУМ
