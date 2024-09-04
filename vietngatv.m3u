@@ -548,7 +548,7 @@ https://stream1.cinerama.uz/1219/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/462BK5j.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360.RU
 http://146.158.0.56/360HD/index.m3u8
-#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
+#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
 https://stream1.cinerama.uz/1262/index.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/jhqLy0N.png",Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
