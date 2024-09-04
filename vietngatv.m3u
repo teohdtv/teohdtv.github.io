@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV - https://hqth.me/vmttv & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
@@ -426,6 +426,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/rNfzYP5.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football
+http://p1.cvtv.xyz/tpf?token=live
 #EXTINF:-1 tvg-id="TVBThai.th" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/yOjt5mK.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
