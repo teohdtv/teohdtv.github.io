@@ -350,7 +350,7 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
-https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
@@ -371,7 +371,7 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Dubai
 http://dmisxthvll.cdn.mangomolo.com/dubaitvht/dubaitv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS Asia
-https://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+http://p2.cvtv.xyz:81/euro?token=live
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV Asia
 https://stream1.cinerama.uz/1053/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
@@ -651,11 +651,11 @@ https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/sP15Oc9.png",Cinema
-https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="flixsnip" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/UVKX2rd.png",FlixSnip
 http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood
-https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",Viju TV1000
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/tv1000/playlist.m3u8
@@ -677,9 +677,9 @@ https://streaming101.goodstream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум
 http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬| Phim truyện",Дорама
-https://stream2.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="ginger-hd" tvg-logo="https://i.imgur.com/K3PSHiT.png",Капитан Фантастика
-https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
 http://live-1.otcnet.ru/kinotvsd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Otfvlmf.png",Кинеко
@@ -689,15 +689,15 @@ https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/dVjtth0.png",Кинокомедия
 http://45.159.74.14/Kinokomedia/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosemiya" tvg-logo="https://i.imgur.com/ML0TEYb.png",Киносемья
-https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoseria" tvg-logo="https://i.imgur.com/iao7zLZ.png",Киносерия
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinomiks" tvg-logo="https://i.imgur.com/OGUMa1A.png",Киномикс
-https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinopokaz" tvg-logo="https://i.imgur.com/nNjMyAq.png",Кинопоказ
 https://stream1.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinopremiera-hd" tvg-logo="https://i.imgur.com/lgvOVxm.png",Кинопремьера
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoxit" tvg-logo="https://i.imgur.com/Ge8vkQM.png",КиноХит
 https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-novoe-kino" tvg-logo="https://i.imgur.com/IOxIsPj.png",Наше новое кино
@@ -717,7 +717,7 @@ https://stream1.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="🎬| Phim truyện",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://i.imgur.com/LL8GyCh.png",Индийское кино
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="🎬| Phim truyện",Иллюзион+
 http://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
@@ -778,7 +778,7 @@ https://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
-https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Телеканал Арсенал
 https://stream1.cinerama.uz/1414/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
@@ -794,7 +794,7 @@ https://stream1.cinerama.uz/1415/index.m3u8
 #EXTINF:-1 tvg-id="poexali" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/DFw4Ej0.png",Поехали!
 https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
-https://stream2.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
 https://stream1.cinerama.uz/1038/index.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
@@ -807,7 +807,7 @@ http://sc.id-tv.kz/Zagorod.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
-https://stream2.cinerama.uz/1453/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1453/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1W6R14o.png",Техно 24
 http://sc.id-tv.kz/Tehno24_34_35.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
@@ -819,7 +819,7 @@ http://146.158.0.56/ZvezdaPlus/mono.m3u8
 #EXTINF:-1 tvg-id="zhivi" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/LPqySGk.png",Живи
 https://stream1.cinerama.uz/1419/index.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/onNv1tM.png",Живая Планета
-https://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая Природа
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 
@@ -869,16 +869,16 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
 https://stream01.vnet.am/Fightbox/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="kxl" tvg-logo="https://i.imgur.com/RgdHdOV.png",KHL
-https://stream2.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="trace-sport-stars" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sport Stars
-https://stream2.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 https://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="match-planeta" tvg-logo="https://i.imgur.com/vhyMb9D.png",Матч! Планета
-https://stream2.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
