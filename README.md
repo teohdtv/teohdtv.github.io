@@ -14,6 +14,6 @@ http://plst.rf.gd/?i=1
 
 https://tinyurl.com/BIINN-OLD
 
-https://lambass.github.io
+https://lambassvn.github.io
 
 
