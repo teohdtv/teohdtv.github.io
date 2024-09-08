@@ -502,7 +502,7 @@ http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/yY39nMg.png",СПАС ТВ
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="sts" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+https://streaming.thestream.cyou/live/296.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний
 https://stream1.cinerama.uz/1436/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3
@@ -719,7 +719,7 @@ https://stream1.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="🎬| Phim truyện",Иллюзион+
 http://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
-https://streaming101.goodstream.cyou/live/43.m3u8
+https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
