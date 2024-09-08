@@ -65,7 +65,8 @@ https://thvip.site/360/188/index.m3u8
 https://thvip.site/360/2380/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/vtc1?token=live
 #EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
 https://thvip.site/360/196/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
@@ -905,8 +906,6 @@ https://ep128.hostingradio.ru:8030/ep128
 http://stream.newradio.ru/moscow.novoe.aacp
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio" radio="true",Орфей
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="📻| Radio" radio="true",Страна FM
-http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/QX43rbX.png" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="📻| Radio" radio="true",Радио Шансон
