@@ -587,7 +587,7 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/EUROPAPLUSTV.png",Europa Plus TV
 http://94.232.104.237:8011/europaplustv/index.m3u8
-#EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/MEZZO.png",Mezzo
+#EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 https://stream1.cinerama.uz/1450/index.m3u8
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MBR.png",Russian Music Box
 http://146.158.0.56/RussianMusicBox/index.m3u8
