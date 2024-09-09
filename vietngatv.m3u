@@ -657,19 +657,19 @@ https://stream1.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood
 https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/ZMsyjSr.png",Viju TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/TV1000.png",Viju TV1000
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/tv1000/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TMmyuzh.png",Viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/ACTION.png",Viju TV1000 Action
 https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Meak2y4.png",Viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/TV1000-RUS.png",Viju TV1000 Русское
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/tv1000rukino/playlist.m3u8
-#EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",Viju+ Comedy
+#EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/COMEDY.png",Viju+ Comedy
 http://91.205.199.3/vipcomedi/index.m3u8
-#EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/oIQNddV.png",Viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/MEGAHIT.png",Viju+ Megahit
 http://91.205.199.3/vipmegahit/index.m3u8
-#EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8yXZET5.png",Viju+ Serial
+#EXTINF:-1 tvg-id="vip-serial" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/Serial.png",Viju+ Serial
 http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jZlj3ga.png",Время
 https://cdn1.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
@@ -751,13 +751,13 @@ http://31.148.48.15:80/RTG/index.m3u8?token=test
 http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure
 http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
-#EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EGIpLPu.png",Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/EXPLORE.png",Viju Explore
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-history" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/FqWkeXb.png",Viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/HISTORY.png",Viju History
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
-#EXTINF:-1 tvg-id="viasat-nature" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8BPZ18l.png",Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/NATURE.png",Viju Nature
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-id="zoopark" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПaрк
@@ -875,7 +875,7 @@ https://stream01.vnet.am/Fightbox/playlist.m3u8
 https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="trace-sport-stars" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sport Stars
 https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/SPORT.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
