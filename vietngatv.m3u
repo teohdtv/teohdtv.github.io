@@ -888,25 +888,25 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="tochka-otryva" tvg-logo="https://i.imgur.com/TZiBQDK.png",Точка Отрыва
 https://stream1.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov1.png" radio="true",VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov2.png" radio="true",VOV2
 http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov3.png" radio="true",VOV3
 http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/iFbX0ZH.png" radio="true",Вести FM
+#EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/VESTI.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/Wr2gxLl.png" radio="true",Маяк
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO_M.png" radio="true",Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://i.imgur.com/P0In2kv.png" radio="true",Радио России
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO-R.png" radio="true",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/kgHh8C5.png" radio="true",Радио Sputnik International
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Sputnik.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
-#EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/PlAiIoT.png" radio="true",Радио Европа Плюс
+#EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Europa-plus.png" radio="true",Радио Европа Плюс
 https://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="http://i.imgur.com/TUKLarg.jpg" radio="true",Новое Радио
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://teohdtv.github.io/thumbs/Radio/NEW-RADIO.png" radio="true",Новое Радио
 http://stream.newradio.ru/moscow.novoe.aacp
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio" radio="true",Орфей
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://teohdtv.github.io/thumbs/Radio/orfey.png" group-title="📻| Radio" radio="true",Орфей
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-#EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/QX43rbX.png" radio="true",Ретро FM
+#EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Retro.png" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
