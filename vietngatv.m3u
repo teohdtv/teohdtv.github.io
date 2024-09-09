@@ -301,184 +301,179 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/yen_bai.png",YTV HD | TH Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC Australia
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ABCA.png",ABC Australia
 http://49.0.64.96:8007/ABC
-#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News
+#EXTINF:-1 tvg-id="ABCNewsLive" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/ABCN.png",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International
+#EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/ALJ.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Angel TV Far East
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/angel_tv.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Asia
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
-#EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
+#EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/afn.png",Asian Food Network
 https://thvip.site/360/215/index.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",AXN Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
-#EXTINF:-1 tvg-id="B4UMoviesIndia.in" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/dmyBzqI.png",B4U MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC23/index.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg TV
 https://stream1.cinerama.uz/1255/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
+#EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
 http://p2.cvtv.xyz:81/c4?token=live
-#EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10
+#EXTINF:-1 tvg-id="CCTV10" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV10.png",CCTV-10
 https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/c5SXW7i.png",CCTV-14
+#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
 https://cdn1.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",Channel News Asia
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
 https://stream1.cinerama.uz/1256/index.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN International Asia Pacific
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN English
+#EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png",CGTN English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Español
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Français
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="cctv-ru" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/nDWkCmL.png",CGTN Русский
+#EXTINF:-1 tvg-id="cctv-ru" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV-RU.png",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
+#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
 https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
+#EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel Asia
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/DISCOVERY.png",Discovery Channel Asia
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoverykids.png",Discovery Kids
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/XBz4I65.png",Discovery Science Asia
+#EXTINF:-1 tvg-id="DiscoveryScience.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/SCI.png",Discovery Science Asia
 https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WuOhLl4.png",Discovery Turbo Asia
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Turbo.png",Discovery Turbo Asia
 https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/DMAX.png",DMAX Asia
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
-#EXTINF:0 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
+#EXTINF:0 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/dreamworks.png",Dreamworks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
-#EXTINF:-1 tvg-id="euronews-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS Asia
+#EXTINF:-1 tvg-id="euronews-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/euro_news.png",EURONEWS Asia
 http://p2.cvtv.xyz:81/euro?token=live
-#EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV Asia
+#EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 https://stream1.cinerama.uz/1053/index.m3u8
-#EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
+#EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="france24-fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 French
+#EXTINF:-1 tvg-id="france24-fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24.png",France 24 French
 https://stream1.cinerama.uz/1241/index.m3u8
-#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
+#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/food.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Asia
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/HBO.png",HBO Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://i.imgur.com/IXJiDZh.png" group-title="🌿| Khám phá",HGTV Asia
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/HGTV.png" group-title="🌿| Khám phá",HGTV Asia
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/L8JPlBj.png",History Asia
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/HISTORY.png",History Asia
 https://thvip.site/360/9856/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2DxwN2m.png",Investigation Discovery Asia
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ID.png",Investigation Discovery Asia
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS Korea
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_korea.png",KBS Korea
 https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_world.png",KBS World
 https://cdn1.skygo.mn/live/disk1/KBSWorld/HLS-FTA/KBSWorld.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_world.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/7j8Lnog.png",Lotus Macau Satellite TV
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/oDacp1F.png",Love Nature 4K
+#EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="MyCinemaAsia.id" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4XVZLW0.png",My Cinema Asia
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/mca.png",My Cinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-#EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
+#EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/nhk_premium.png",NHK World Premium
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/outdoor.png",Outdoor
 https://thvip.site/360/216/index.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
+#EXTINF:-1 tvg-id="SkyNews.uk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/SKYN.png",Sky News
 http://p2.cvtv.xyz:81/skn?token=live
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/tYr9IVZ.png",Phoenix Chinese
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/CAcJfPZ.png",Phoenix Infonews
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/1nN4rEP.png",Rai Italia Asia
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC7/index.m3u8
-#EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
+#EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="rtd-en" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",Russia Today Documentary (English)
+#EXTINF:-1 tvg-id="rtd-en" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary (English)
 http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",Russia Today Documentary (Russian)
+#EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary (Russian)
 https://streaming.thestream.cyou/live/554.m3u8
-#EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World
+#EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRT.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Asia
+#EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TLC.png",TLC Asia
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-#EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/rNfzYP5.png",Travel Channel Asia
+#EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRAVEL.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
-#EXTINF:-1 tvg-id="TVBThai.th" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/yOjt5mK.png",TVB Thai
+#EXTINF:-1 tvg-id="TVBThai.th" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/tvb-thai.png",TVB Thai
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/TVE.png",TVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC4/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_asia.png",TV5Monde ASIE
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/cwC7Q2V.png",TV5Monde Style
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_monde_style.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/B9AVT2i.png",Warner Bros TV
+#EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner Bros TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
-#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/4unUuGy.png" group-title="🤣| Giải trí",World Fashion Channel
+#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://teohdtv.github.io/thumbs/SNG/WFC.png" group-title="🤣| Giải trí",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://i.imgur.com/V0l9O6g.png" group-title="🤣| Giải trí",Xing Kong International
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://teohdtv.github.io/thumbs/INT/XK.png" group-title="🤣| Giải trí",Xing Kong International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/EbQKy78.png",YTN World
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/YTN.png",YTN World
 https://cdn1.skygo.mn/live/disk1/YTN_World/HLS-FTA/YTN_World.m3u8
-#EXTINF:-1 tvg-id="ZeeNews.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/f0rpZtH.png",ZEE News
+#EXTINF:-1 tvg-id="ZeeNews.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/ZEEN.png",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
 https://thvip.site/360/159/index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BH.png",Box Hits
 https://thvip.site/360/239/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
 https://thvip.site/360/160/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/png/241.png",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png",In The Box
 https://thvip.site/360/235/index.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
 https://thvip.site/360/162/index.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
 https://thvip.site/360/212/index.m3u8
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/png/243.png",Man
+#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/man.png",Man
 https://thvip.site/360/237/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
 https://thvip.site/360/289/index.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
 https://thvip.site/360/135/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
 https://thvip.site/360/163/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://i.imgur.com/PCOsdzI.png",Первый канал
