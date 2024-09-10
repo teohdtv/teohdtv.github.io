@@ -321,7 +321,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
-#EXTINF:0 tvg-id="cbeebies" group-title="FPT Play" tvg-logo="https://teohdtv.github.io/thumbs/INT/cbeebies.png",BBC CBeeBies
+#EXTINF:0 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/cbeebies.png",BBC CBeeBies
 http://ntdung.duckdns.org:27589/udp/225.1.4.29:30120
 #EXTINF:0 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCE.png",BBC Earth
 http://ntdung.duckdns.org:27589/udp/225.1.4.21:30120
