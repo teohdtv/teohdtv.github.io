@@ -487,8 +487,8 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="karusel-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
-https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
+https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
@@ -505,8 +505,8 @@ https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3
 https://stream1.cinerama.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="piatnica" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FRIDAY.png",Пятница
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FRIDAY.png",Пятница
+https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
 https://stream1.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
