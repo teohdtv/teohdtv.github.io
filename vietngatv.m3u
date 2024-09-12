@@ -552,8 +552,6 @@ http://edge02.odtv.az/o1/rbktv/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR24.png",МИР 24
 https://stream1.cinerama.uz/1219/index.m3u8
-#EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR24.png",МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://teohdtv.github.io/thumbs/SNG/360.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360.RU
 http://146.158.0.56/360HD/index.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/360-NEWS.png",360.RU Новости
