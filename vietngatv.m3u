@@ -458,8 +458,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://teohdtv.github.io/thumbs/INT/XK.png" group-title="🤣| Giải trí",Xing Kong International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/YTN.png",YTN World
-https://cdn1.skygo.mn/live/disk1/YTN_World/HLS-FTA/YTN_World.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/ZEEN.png",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
