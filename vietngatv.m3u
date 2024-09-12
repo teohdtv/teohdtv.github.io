@@ -45,8 +45,6 @@ https://thvip.site/360/189/index.m3u8
 https://thvip.site/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV12.png",ON Style TV
 https://thvip.site/360/184/index.m3u8
-#EXTINF:0 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONHSP.png",ON Home Shopping
-http://ntdung.duckdns.org:27589/udp/225.1.4.79:30120
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music 
 https://thvip.site/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
@@ -321,12 +319,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
-#EXTINF:0 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/cbeebies.png",BBC CBeeBies
-http://ntdung.duckdns.org:27589/udp/225.1.4.29:30120
-#EXTINF:0 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCE.png",BBC Earth
-http://ntdung.duckdns.org:27589/udp/225.1.4.21:30120
-#EXTINF:0 tvg-id="bbclifestyle" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/bbclife.png",BBC Lifestyle
-http://ntdung.duckdns.org:27589/udp/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg TV
