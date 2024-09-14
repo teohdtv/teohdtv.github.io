@@ -854,29 +854,6 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="tochka-otryva" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOCHKA.png",Точка Отрыва
 https://stream1.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 1
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 2
-https://streaming.thestream.cyou/live/211.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 3
-https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 4
-https://streaming.thestream.cyou/live/30.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 5
-https://streaming.thestream.cyou/live/232.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 6
-https://streaming.thestream.cyou/live/296.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 7
-https://streaming.thestream.cyou/live/748.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 8
-https://streaming.thestream.cyou/live/38.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 9
-https://streaming.thestream.cyou/live/618.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 10
-https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="" group-title="❓| Treo bảng màu",Unknown 11
-https://streaming.thestream.cyou/live/44.m3u8
-
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov1.png" radio="true",VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov2.png" radio="true",VOV2
