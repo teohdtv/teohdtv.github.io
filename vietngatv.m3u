@@ -655,7 +655,7 @@ https://cdn1.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino.png",Дом Кино
 https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino-pre.png",Дом Кино Премиум
-http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+https://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DORAMA.png" group-title="🎬| Phim truyện",Дорама
 https://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="ginger-hd" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KAPITAN.png",Капитан Фантастика
@@ -667,7 +667,7 @@ http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosvidanie" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOSVID.png",Киносвидание
 https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOKOMEDIYA.png",Кинокомедия
-http://45.159.74.14/Kinokomedia/index.m3u8
+https://stream01.vnet.am/Kinokomedia/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosemiya" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOSEMIYA.png",Киносемья
 https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoseria" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOSERIYA.png",Киносерия
@@ -832,7 +832,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="extreme-sports" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/EXTREME.png",Extreme Sports
-http://45.159.74.14:80/KXLTV/index.m3u8
+https://stream01.vnet.am/KXLTV/index.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://teohdtv.github.io/thumbs/INT/FFB.png" group-title="⚽| Thể thao",Fast&Fun Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/04.m3u8
