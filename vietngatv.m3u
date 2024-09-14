@@ -479,7 +479,7 @@ https://stream1.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",Россия РТР
 http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV.png",НТВ МИР
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://stream1.cinerama.uz/1434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
@@ -487,7 +487,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
-https://streaming.goodstream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
