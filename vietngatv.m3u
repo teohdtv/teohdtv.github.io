@@ -674,7 +674,7 @@ https://stream1.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-novoe-kino" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NASHE.png",Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-SERIAL.png" group-title="🎬| Phim truyện",НТВ СЕРИАЛ
-http://cdn2.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+http://91.205.199.3:80/ntvserial/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NST.png",НСТ
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINO.png",Любимое кино
@@ -790,12 +790,9 @@ http://146.158.0.56/MirUvlecheniy/mono.m3u8
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
 http://91.205.199.3/nostalgia/index.m3u8
-#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-PRAVO.png" group-title="🤣| Giải trí",НТВ ПРАВО
-http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-STYLE.png" group-title="🤣| Giải trí",НТВ Стиль
-http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-HIT.png",НТВ Хит
-http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OKRMIR.png" group-title="🤣| Giải trí",Открытый мир
 http://146.158.0.56/OtkritiyMir/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
