@@ -476,7 +476,7 @@ http://91.142.158.107:8092/play/5/index.m3u8
 #EXTINF:-1 tvg-id="kultura-pl7" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
 http://91.142.158.107:8092/play/6/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
-https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+http://stream01.vnet.am/Rossia24/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
 https://stream1.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr-pl7" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
