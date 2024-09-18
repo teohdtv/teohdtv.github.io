@@ -474,17 +474,17 @@ https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 http://91.142.158.107:8092/play/35/index.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
-https://stream1.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 https://streaming.thestream.cyou/live/30.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
 https://streaming.thestream.cyou/live/232.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://91.142.158.107:8092/play/39/index.m3u8
-#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
-https://stream1.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",РЕН ТВ
-https://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС
@@ -507,8 +507,8 @@ https://streaming.thestream.cyou/live/618.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
 http://31.148.48.15:80/STS_Love/index.m3u8?token=test
-#EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
-http://sc.id-tv.kz/tnt4.m3u8
+#EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
 https://stream1.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/2X2.png",2x2
@@ -518,8 +518,10 @@ http://31.148.48.15:80/Super/index.m3u8?token=test
 #EXTINF:-1 tvg-id="yu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUTV.png",RU.TV
-https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o7/rutv/playlist.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RBC.png",РБК
+http://edge02.odtv.az/o1/rbktv/playlist.m3u8
+#EXTINF:-1 tvg-id="rbk" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RBC.png",РБК HD
 https://stream1.cinerama.uz/1438/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/IZ.png",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -591,7 +593,7 @@ https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TIJI.png",Tiji
 https://stream01.vnet.am/Tiji/playlist.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Mama.png",Мама
-https://stream1.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Mult.png",Мульт
 https://stream1.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="multimania" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Multi.png",Мультиландия
@@ -630,11 +632,11 @@ http://sc.id-tv.kz/FlixSnip.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/HOLLYWOOD.png",Hollywood
 https://stream1.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/TV1000.png",Viju TV1000
-https://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o5/tv1000/playlist.m3u8
 #EXTINF:-1 tvg-id="tv1000-action" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/ACTION.png",Viju TV1000 Action
 https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/TV1000-RUS.png",Viju TV1000 Русское
-https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o5/tv1000rukino/playlist.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/COMEDY.png",Viju+ Comedy
 http://91.205.199.3/vipcomedi/index.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/MEGAHIT.png",Viju+ Megahit
@@ -702,7 +704,7 @@ http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSROMAN.png",Русский Роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Rusi.png",Русский Иллюзион
-http://sc.id-tv.kz/RusIlluzion.m3u8
+https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV21.png",ТВ 21
 http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 
@@ -713,15 +715,15 @@ http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTG-TV.png",RTG TV
 http://31.148.48.15:80/RTG/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOP-SECRET.png",Top Secret
-http://91.205.199.3/sovershennosekretno/index.m3u8
+https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="travel-adventure" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TRAVEL.png",Travel+Adventure
 http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
 #EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/EXPLORE.png",Viju Explore
-https://stream1.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-history" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/HISTORY.png",Viju History
-https://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+http://edge02.odtv.az/o5/viasathistory/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/NATURE.png",Viju Nature
-https://stream1.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTINF:-1 tvg-id="zoopark" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZOOPARK.png",ZooПaрк
 https://stream1.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/AVTO24.png",АВТО 24
@@ -789,7 +791,7 @@ http://146.158.0.56/MirUvlecheniy/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KVN.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
-http://91.205.199.3/nostalgia/index.m3u8
+https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-STYLE.png" group-title="🤣| Giải trí",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s77/04.m3u8
@@ -820,7 +822,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="extreme-sports" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/EXTREME.png",Extreme Sports
-https://stream01.vnet.am/KXLTV/index.m3u8
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://teohdtv.github.io/thumbs/INT/FFB.png" group-title="⚽| Thể thao",Fast&Fun Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/04.m3u8
@@ -829,7 +831,7 @@ https://stream01.vnet.am/Fightbox/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="kxl" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KHL.png",KHL
 https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/SPORT.png",Viju+ Sport
-https://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOKSTV.png",Бокс ТВ
 https://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="match-planeta" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",Матч! Планета
