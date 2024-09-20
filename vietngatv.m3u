@@ -5,14 +5,14 @@
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png",VTV2
-http://thvip.site/360/3/index.m3u8
+https://thvip.site/360/3/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V3.png",VTV3
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V4.png",VTV4
 https://thvip.site/360/108/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png",VTV5
-http://thvip.site/360/110/index.m3u8
+https://thvip.site/360/110/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
 https://thvip.site/360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
@@ -27,7 +27,7 @@ https://thvip.site/360/115/index.m3u8
 https://thvip.site/360/8/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
-http://thvip.site/360/180/index.m3u8
+https://thvip.site/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt 
 https://thvip.site/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies 
@@ -64,7 +64,7 @@ https://thvip.site/360/188/index.m3u8
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
-http://thvip.site/360/16/index.m3u8
+https://thvip.site/360/16/index.m3u8
 #EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC2.png",VTC2
 https://thvip.site/360/196/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC3.png",VTC3
@@ -99,8 +99,7 @@ https://thvip.site/360/192/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV4.png",HTV Key
 https://thvip.site/360/9/index.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-http://p1.cvtv.xyz/htv7?token=live
+https://thvip.site/360/193/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
 https://thvip.site/360/194/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
@@ -157,7 +156,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/bac_lieu.png",BLTV HD | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ben_tre.png",THBT HD | TH Bến Tre
-http://thvip.site/360/40/index.m3u8
+https://thvip.site/360/40/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV2 HD | TH Bình Dương
