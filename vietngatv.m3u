@@ -620,9 +620,9 @@ http://91.205.199.3:80/red/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SCI-FI.png",.Sci-fi
 http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A1.png",AMEDIA 1
-http://stream01.vnet.am/Channel_128/mono.m3u8
+http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A2.png",AMEDIA 2
-http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+http://sc.id-tv.kz/A2.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-HIT.png",Amedia Hit
 https://stream01.vnet.am/Nauka/playlist.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-PRE.png",Amedia Premium
