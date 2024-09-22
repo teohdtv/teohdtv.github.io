@@ -462,6 +462,8 @@ https://thvip.site/360/163/index.m3u8
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",Россия РТР
 https://streaming.thestream.cyou/live/211.m3u8
+#EXTINF:-1 tvg-id="match-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",Матч!
+http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV.png",НТВ МИР
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
@@ -839,8 +841,6 @@ https://stream1.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOKSTV.png",Бокс ТВ
 https://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="match-planeta" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",Матч! Планета
-https://stream1.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FUTBOL.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
