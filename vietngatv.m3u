@@ -63,7 +63,7 @@ https://thvip.site/360/169/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONGOLF.png",ON Golf 
 https://thvip.site/360/188/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ACTION.png",BTV5 — On Sports Action
-https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+https://220213024.r.vtvcdn.com/hls/ONBTV5/04.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -328,6 +328,9 @@ https://stream1.cinerama.uz/1255/tracks-v1a1/mono.m3u8
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
 http://p2.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
@@ -337,7 +340,7 @@ https://cdn1.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-https://stream1.cinerama.uz/1256/tracks-v1a1/mono.m3u8
+https://thvip.site/360/9855/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
@@ -376,7 +379,8 @@ http://p2.cvtv.xyz:81/euro?token=live
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 https://stream1.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24.png",France 24 French
 https://stream1.cinerama.uz/1241/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/food.png",Food Network Asia
@@ -411,9 +415,9 @@ https://thvip.site/360/216/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/SKYN.png",Sky News
 http://p2.cvtv.xyz:81/skn?token=live
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+http://223.19.212.121:20131/bysid/258
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+http://p2.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-en" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary (English)
@@ -430,7 +434,7 @@ https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_asia.png",TV5Monde ASIE
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_monde_style.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:0 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner Bros TV
@@ -443,7 +447,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/ZEEN.png",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+http://49.0.64.96:8007/Zoomoo
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
 https://thvip.site/360/159/index.m3u8
