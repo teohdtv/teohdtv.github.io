@@ -622,8 +622,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://sc.id-tv.kz/360.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/360-NEWS.png",360.RU Новости
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал International
-https://stream1.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
+http://91.205.199.3/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BST.png",Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ENISEY.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Енисей
