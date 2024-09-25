@@ -653,7 +653,7 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSONGTV.png",Bridge Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/EUROPAPLUSTV.png",Europa Plus TV
-http://94.232.104.237:8011/europaplustv/index.m3u8
+http://91.224.169.250:5000/c64
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 https://stream1.cinerama.uz/1450/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
@@ -699,7 +699,7 @@ https://stream1.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BLACK.png",.Black
 http://91.205.199.3/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RED.png",.Red
-http://91.205.199.3:80/red/index.m3u8
+http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SCI-FI.png",.Sci-fi
 http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A1.png",AMEDIA 1
