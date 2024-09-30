@@ -651,8 +651,6 @@ https://stream1.cinerama.uz/1269/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSONGTV.png",Bridge Русский Хит
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/EUROPAPLUSTV.png",Europa Plus TV
-http://91.224.169.250:5000/c64
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 https://stream1.cinerama.uz/1450/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
@@ -671,8 +669,6 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ANI.png",Ani
 http://31.148.48.15:80/Ani/index.m3u8?token=test
-#EXTINF:-1 tvg-id="fanhd" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FAN.png",FAN
-http://91.224.169.250:5000/c17
 #EXTINF:-1 tvg-id="gulli-girl" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/GULLI.png",Gulli Girl
 https://stream1.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TIJI.png",Tiji
@@ -894,21 +890,23 @@ https://cdn1.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
 http://stream01.vnet.am/Channel_129/mono.m3u8
 
-#EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ
+#EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ (Казахстан)
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
-#EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ HD
+#EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ HD (Казахстан)
 https://stream1.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="atameken-business" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Atameken_Business.png",Atameken Business (РУ и КЗ)
+#EXTINF:-1 tvg-id="atameken-business" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Atameken_Business.png",Atameken Business (Казахстан)
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ua-tv" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/UA.png",FREEДОМ [УКР.] (РУ и УКР)
+#EXTINF:-1 tvg-id="ua-tv" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/UA.png",FREEДОМ (Иновещание Украины)
 http://210.210.155.35/uq2663/h/h101/index.m3u8
-#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SILK-WAY.png",Silk Way TV
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SILK-WAY.png",Silk Way TV (Казахстан)
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 tvg-id="kazakhstan" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/QAZAQSTAN.png",Qazaqstan (КЗ)
+#EXTINF:-1 tvg-id="kazakhstan" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/QAZAQSTAN.png",Qazaqstan (Казахстан)
 https://stream1.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL24.png",Беларусь 24
+#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL24.png",Беларусь 24 (Беларусь)
+http://sc.id-tv.kz/Belarus24_34_35.m3u8
+#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL24.png",Беларусь 24 HD (Беларусь)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL-ROS.png",БелРос
+#EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL-ROS.png",БелРос (Россия-Беларусь)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/LDPR.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
