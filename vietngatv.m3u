@@ -661,7 +661,7 @@ https://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
 https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
-http://86.57.178.105:10821
+http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/L24.png",Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
