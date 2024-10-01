@@ -740,7 +740,7 @@ https://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINO-TV.png",Кино ТВ
 http://live-1.otcnet.ru/kinotvsd/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KIN.png",Кинеко
-http://31.148.48.15/Kineko/index.m3u8
+http://s5.merlive.am:80/kineko/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosvidanie" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOSVID.png",Киносвидание
 https://stream1.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOKOMEDIYA.png",Кинокомедия
@@ -791,7 +791,7 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 #EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV21.png",ТВ 21
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+http://91.205.199.3/tvxxi/index.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/365.png",365
 https://stream1.cinerama.uz/1242/tracks-v1a1/mono.m3u8
