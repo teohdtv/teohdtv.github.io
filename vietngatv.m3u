@@ -67,7 +67,7 @@ https://thvip.site/360/27/index.m3u8
 https://thvip.site/360/185/index.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/BDTV.png",ON Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://taixiudianh9999.ddns.net:21585/vtvcab16/index.m3u8
+http://203.162.123.188:21585/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/186/index.m3u8
@@ -426,7 +426,8 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/214/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",Deutsche Welle English
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://s4.nihontv.net:21585/dw/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/DISCOVERY.png",Discovery Channel Asia
