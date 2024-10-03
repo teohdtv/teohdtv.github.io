@@ -381,9 +381,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/215/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-https://thvip.site/360/111/index.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
@@ -433,10 +430,7 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://thvip.site/360/214/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",Deutsche Welle English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://s4.nihontv.net:21585/dw/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",Deutsche Welle English HD
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
@@ -709,9 +703,9 @@ http://91.205.199.3/red/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SCI-FI.png",.Sci-fi
 http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A1.png",AMEDIA 1
-http://sc.id-tv.kz/A1.m3u8
+http://stream01.vnet.am/Channel_128/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A2.png",AMEDIA 2
-http://sc.id-tv.kz/A2.m3u8
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-HIT.png",Amedia Hit
 https://stream01.vnet.am/Nauka/playlist.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-PRE.png",Amedia Premium
@@ -900,8 +894,6 @@ https://cdn1.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 http://stream01.vnet.am/Channel_129/mono.m3u8
 
 #EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ (Казахстан)
-https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
-#EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ HD (Казахстан)
 https://stream1.cinerama.uz/1408/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Atameken_Business.png",Atameken Business (Казахстан)
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
@@ -912,8 +904,6 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 tvg-id="kazakhstan" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/QAZAQSTAN.png",Qazaqstan (Казахстан)
 https://stream1.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL24.png",Беларусь 24 (Беларусь)
-http://sc.id-tv.kz/Belarus24_34_35.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL24.png",Беларусь 24 HD (Беларусь)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BEL-ROS.png",БелРос (Россия-Беларусь)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
