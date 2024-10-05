@@ -39,12 +39,16 @@ https://thvip.site/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/175/index.m3u8
+#EXTINF:0 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV3.png",ON Sports
+https://301984010.r.vtvcdn.com/hls/THETHAO_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV5.png",ON E Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/182/index.m3u8
+#EXTINF:0 tvg-id="onsportsplus" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV6.png",ON Sports+
+https://509942876.r.vtvcdn.com/HAY_TV/v2_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/136/index.m3u8
@@ -72,8 +76,7 @@ http://203.162.123.188:21585/vtvcab16/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/TTTTHD.png",ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36 
-https://thvip.site/360/170/index.m3u8
+https://301984010.r.vtvcdn.com/hls/THETHAO_TINTUC_HD/04.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/177/index.m3u8
@@ -91,6 +94,12 @@ https://thvip.site/360/169/index.m3u8
 https://thvip.site/360/188/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ACTION.png",BTV5 — On Sports Action
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/Other/SCTV6.png",SCTV6
+https://thvip.site/360/232/index.m3u8
+#EXTINF:0 tvg-id="kcinehd" group-title="🎬| Phim truyện" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png",K+CINE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -189,9 +198,6 @@ https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/VOV.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/Other/SCTV6.png",SCTV6
-https://thvip.site/360/232/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi1.png",HanoiTV1 | TH Hà Nội
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
