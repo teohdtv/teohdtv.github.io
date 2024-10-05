@@ -568,8 +568,9 @@ http://91.142.158.107:8092/play/33/index.m3u8
 https://stream1.cinerama.uz/1434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 http://91.142.158.107:8092/play/35/index.m3u8
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
-http://31.148.48.15:80/TDK/index.m3u8?token=test
+#EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24 [МИР]
 https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
@@ -602,8 +603,8 @@ http://sc.id-tv.kz/tntComedy.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
-#EXTINF:-1 tvg-id="che-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
-http://31.148.48.15:80/Che/index.m3u8?token=test
+#EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-love-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
 http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
@@ -615,8 +616,8 @@ https://stream1.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 http://31.148.48.15:80/2x2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="super-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SUB.png",Суббота
 http://31.148.48.15:80/Super/index.m3u8?token=test
-#EXTINF:-1 tvg-id="yu-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
-http://31.148.48.15:80/U/index.m3u8?token=test
+#EXTINF:-1 tvg-id="yu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
+http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUTV.png",RU.TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o7/rutv/playlist.m3u8
