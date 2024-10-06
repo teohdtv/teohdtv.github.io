@@ -382,7 +382,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax
-http://dinhdong.ddns.net:13579/udp/225.1.1.135:30120
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/afn.png",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/215/index.m3u8
