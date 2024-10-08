@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://hqth.me/teovietngatv - https://hqth.me/Phu3xIPTV - https://hqth.me/vmttv - https://bom.so/Beartv & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
@@ -419,8 +419,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/9855/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
-http://orfkrorkrflwowi.ddns.net:21585/cnn/index.m3u8
+https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png",CGTN English
@@ -465,6 +464,8 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/hls/france24_fra/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/food.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:0 tvg-id="FoxNewsChannel.us" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/food.png",Fox News International
+https://stream1.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/HBO.png",HBO Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://orfkrorkrflwowi.ddns.net:21585/hbo/index.m3u8
