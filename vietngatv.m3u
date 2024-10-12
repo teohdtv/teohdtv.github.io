@@ -856,8 +856,6 @@ https://stream1.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZP.png",Живая Природа
 https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="mir-uvlecheniy" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KTOKUDA.png",#Ктокуда
-http://146.158.0.56/MirUvlecheniy/mono.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KVN.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
@@ -866,8 +864,6 @@ https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-STYLE.png" group-title="🤣| Giải trí",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OKRMIR.png" group-title="🤣| Giải trí",Открытый мир
-http://146.158.0.56/OtkritiyMir/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
