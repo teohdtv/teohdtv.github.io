@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://bom.so/Beartv & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
@@ -473,6 +473,8 @@ https://thvip.site/360/216/index.m3u8
 http://p2.cvtv.xyz:81/skn?token=live
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese
 http://223.19.212.121:20131/bysid/258
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXHK.png",Phoenix Hong Kong
+http://223.19.212.121:20131/bysid/259
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews
 http://223.19.212.121:20131/bysid/257
 #EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
