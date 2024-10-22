@@ -435,7 +435,7 @@ https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 https://stream1.cinerama.uz/1053/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/FOXNEWS.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",FOX News Channel
-http://212.102.60.231/FOX_News_Channel/index.m3u8
+https://stream1.cinerama.uz/1252/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8
