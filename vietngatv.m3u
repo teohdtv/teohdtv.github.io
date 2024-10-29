@@ -381,9 +381,9 @@ https://stream1.cinerama.uz/1251/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg TV
 http://125.227.210.55:8161/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
-http://s4.nihontv.net:21585/cartoon/index.m3u8
+http://stream01.vnet.am/Kinosemya/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
-https://edge6a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
