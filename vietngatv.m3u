@@ -486,34 +486,34 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/159/index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BH.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BH.png",Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/239/index.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/160/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png",In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png",In The Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/235/index.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/162/index.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/212/index.m3u8
-#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/man.png",Man
+#EXTINF:-1 tvg-id="man" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/man.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/237/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/289/index.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/135/index.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/163/index.m3u8
 
