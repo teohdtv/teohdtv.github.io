@@ -533,6 +533,8 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 https://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
+http://185.23.80.28:8080/OTR/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/tvc/playlist.m3u8
@@ -757,11 +759,9 @@ http://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",РОДНОЕ КИНО
 https://stream1.cinerama.uz/1052/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSB.png",Русский Бестселлер
-http://91.142.158.107:8092/play/26/index.m3u8
-#EXTINF:-1 tvg-id="russky-detektiv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSD.png",Русский Детектив
-http://91.142.158.107:8092/play/27/index.m3u8
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSROMAN.png",Русский Роман
-http://91.142.158.107:8092/play/25/index.m3u8
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Rusi.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
