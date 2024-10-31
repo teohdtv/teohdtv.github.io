@@ -526,8 +526,6 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 https://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
-http://185.23.80.28:8080/OTR/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/tvc/playlist.m3u8
@@ -621,6 +619,8 @@ http://91.194.191.241:8081/chid89/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1238/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
 https://stream1.cinerama.uz/1201/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="o2tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/O2TV.png",О!2 ТВ
+http://91.205.199.3/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
 http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
 
@@ -927,4 +927,4 @@ https://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://teohdtv.github.io/thumbs/Radio/NEW-RADIO.png" radio="true",Новое Радио
 http://stream.newradio.ru/moscow.novoe.aacp
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Retro.png" radio="true",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.ret
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
