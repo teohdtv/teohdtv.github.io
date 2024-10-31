@@ -626,6 +626,8 @@ http://stream01.vnet.am/Channel_115/mono.m3u8
 http://77.235.1.17/europa_plus/index.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 https://stream1.cinerama.uz/1450/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MBR.png",Music Box Russia
+http://91.194.191.241:8081/chid89/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
 https://stream1.cinerama.uz/1238/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
