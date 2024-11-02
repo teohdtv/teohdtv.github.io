@@ -516,7 +516,7 @@ https://thvip.site/360/212/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/man.png",Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/237/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/289/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
