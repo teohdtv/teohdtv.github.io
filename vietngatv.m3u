@@ -98,6 +98,23 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
+https://thvip.site/htvtt/index.m3u8
+
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/CANHAC.png",HTVC Ca Nhạc
+https://thvip.site/canhac/index.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/DULICH.png",HTVC Du Lịch và Cuộc Sống
+https://thvip.site/dulich/index.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/GIADINH.png",HTVC Gia Đình
+https://thvip.site/giadinh/index.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/phim.png",HTVC Phim
+https://thvip.site/htvcphim/index.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/PHUNU.png",HTVC Phụ Nữ
+https://thvip.site/phunu/index.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/thuan_viet.png",HTVC Thuần Việt
+https://thvip.site/thuanviet/index.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/htvc_plus.png",HTVC+
+https://thvip.site/htvcplus/index.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://teohdtv.github.io/thumbs/National/QHTV.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
@@ -312,7 +329,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
+#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
 https://stream1.cinerama.uz/1231/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
