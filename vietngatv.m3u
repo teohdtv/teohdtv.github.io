@@ -426,21 +426,21 @@ https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал
-https://streaming.thestream.cyou/live/210.m3u8
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",Россия РТР
-https://streaming.thestream.cyou/live/211.m3u8
+https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-id="match-tv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",МАТЧ!
 http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV.png",НТВ МИР
-https://streaming.thestream.cyou/live/213.m3u8
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 http://91.194.191.241:8081/chid13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kultura-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
 http://91.194.191.241:8081/chid6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
-https://streaming.thestream.cyou/live/30.m3u8
+https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="karusel-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
-https://streaming.thestream.cyou/live/232.m3u8
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="otr-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
@@ -450,7 +450,7 @@ https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="sts-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС
-https://streaming.thestream.cyou/live/296.m3u8
+https://streaming.thestream.cyou/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DOM.png",Домашний
 https://stream1.cinerama.uz/1436/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3
@@ -458,13 +458,13 @@ http://91.194.191.241:8081/chid5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FRIDAY.png",Пятница
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
-https://streaming.thestream.cyou/live/748.m3u8
+https://streaming.thestream.cyou/live/748-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="mir-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
 http://91.194.191.241:8081/chid16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
-https://streaming.thestream.cyou/live/38.m3u8
+https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="muztv-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
-https://streaming.thestream.cyou/live/618.m3u8
+https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="che-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://91.194.191.241:8081/chid19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
@@ -616,7 +616,7 @@ http://77.235.1.17/vremya/index.m3u8
 #EXTINF:-1 tvg-id="denpobedy" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DP.png",День Победы
 http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino.png",Дом Кино
-https://streaming.thestream.cyou/live/44.m3u8
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino-pre.png",Дом Кино Премиум
 https://stream02.vnet.am/THT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DORAMA.png" group-title="🎬| Phim truyện",Дорама
@@ -782,7 +782,7 @@ http://s1.merlive.am/ntvpravo/index.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 https://stream1.cinerama.uz/1249/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
-https://streaming.thestream.cyou/live/43.m3u8
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Telekafe.png",Телекафе
 http://77.235.1.17/telekafe/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
