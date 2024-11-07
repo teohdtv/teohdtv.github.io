@@ -836,13 +836,17 @@ http://media.kythuatvov.vn:7005
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO_M.png" radio="true",Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Avtoradio.png" radio="true",Авторадио
+http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO-R.png" radio="true",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Sputnik.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Europa-plus.png" radio="true",Радио Европа Плюс
 https://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://teohdtv.github.io/thumbs/Radio/NEW-RADIO.png" radio="true",Новое Радио
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-shanson" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Shanson.png" radio="true",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/NEW-RADIO.png" radio="true",Новое Радио
 http://stream.newradio.ru/moscow.novoe.aacp
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Retro.png" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
