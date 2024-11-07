@@ -61,12 +61,6 @@ https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab17hd/KenhTruyenHinhCoBa
 https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab18hd/KenhTruyenHinhCoBan
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 https://thvip.site/vtvcab19/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VFAMILY.png",ON VFamily
-https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab20hd/KenhTruyenHinhCoBan
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONKIDS.png",ON Kids
-https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab21hd/KenhTruyenHinhCoBan
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONLIFE.png",ON Life TV
-https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab22hd/KenhTruyenHinhCoBan
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -105,9 +99,9 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV4.png",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
+http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
+http://125hvt.ddns.net:21585/htv9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
