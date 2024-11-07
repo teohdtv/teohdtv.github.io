@@ -433,15 +433,20 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
 #EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
-https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/drfit/index.m3u8?
 #EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
-https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/happykid/index.m3u8?
 #EXTINF:-1 tvg-id="musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
-https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
-https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
 #EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
-https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/woman/index.m3u8?
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
