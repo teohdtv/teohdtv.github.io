@@ -105,7 +105,8 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV4.png",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7
-http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+http://p1.cvtv.xyz/htv7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
 http://125hvt.ddns.net:21585/htv9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
