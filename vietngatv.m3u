@@ -61,6 +61,12 @@ https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab17hd/KenhTruyenHinhCoBa
 https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab18hd/KenhTruyenHinhCoBan
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 https://thvip.site/vtvcab19/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VFAMILY.png",ON VFamily
+https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab20hd/KenhTruyenHinhCoBan
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONKIDS.png",ON Kids
+https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab21hd/KenhTruyenHinhCoBan
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONLIFE.png",ON Life TV
+https://tv.TruyenHinh.Click/LinkTongHopCuaMoiNguoi/vtvcab22hd/KenhTruyenHinhCoBan
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
