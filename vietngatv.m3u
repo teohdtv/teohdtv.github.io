@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/visionplus.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://bom.so/Beartv & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
@@ -317,6 +317,8 @@ https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CCTV2" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV2.png",CCTV-2
+https://edge6a.v2h-cdn.com/cctv2/cctv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
 https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
@@ -391,6 +393,10 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u
 https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/outdoor.png",Outdoor
 http://125hvt.ddns.net:21585/outdoor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO.png",SPOTV
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese
 http://223.19.212.121:20131/bysid/258
 #EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXHK.png",Phoenix Hong Kong
