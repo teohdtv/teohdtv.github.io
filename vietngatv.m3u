@@ -295,7 +295,7 @@ https://cdn2.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-https://stream1.cinerama.uz/1256/tracks-v1a1/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/CNBC/TruyenHinh.Click
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
@@ -310,8 +310,8 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
-https://stream1.cinerama.uz/1231/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
+https://tv.TruyenHinh.Click/CoBan/Davinci/TruyenHinh.Click
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
@@ -388,6 +388,8 @@ http://49.0.64.96:8007/TV5
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner TV Asia
 http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
+https://tv.TruyenHinh.Click/CoBan/Woman/TruyenHinh.Click
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://teohdtv.github.io/thumbs/SNG/WFC.png" group-title="🤣| Giải trí",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
