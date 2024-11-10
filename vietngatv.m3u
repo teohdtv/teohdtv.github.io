@@ -698,6 +698,8 @@ https://stream1.cinerama.uz/1409/tracks-v1a1/index.m3u8
 https://stream1.cinerama.uz/1423/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Nauka.png",Наука
 https://stream1.cinerama.uz/1248/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="nasha-sibir" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/nasha-sibir.png",Наша Сибирь
+https://stream1.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Arsenal.png" group-title="🌿| Khám phá",Телеканал Арсенал
 https://stream1.cinerama.uz/1414/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MYPLANET.png",Моя Планета
