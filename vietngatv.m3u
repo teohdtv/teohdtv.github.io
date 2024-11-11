@@ -518,6 +518,8 @@ http://77.235.1.17/fan/index.m3u8
 https://stream1.cinerama.uz/1445/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TIJI.png",Tiji
 https://stream1.cinerama.uz/1441/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VGOS.png",В Гостях У Сказки
+https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Mama.png",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/mamatv/playlist.m3u8
@@ -531,6 +533,8 @@ http://91.194.191.241:8081/chid405/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1407/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DEK.png",Детский мир
 https://stream1.cinerama.uz/1032/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SMAILIK.png",Смайлик ТВ
+https://stream1.cinerama.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="solnce" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SOLSE.png",Солнце
 http://77.235.1.17/disney/index.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-KIDS.png",СТС Kids
