@@ -172,7 +172,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/tra_vinh2.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/brvt.png",BRT HD | TH Vũng Tàu
-https://tv.TruyenHinh.Click/CoBan/182/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/182/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/da-nang-1.png",DaNangTV1 HD | TH Đà Nẵng
 https://thvip.site/danang1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/da-nang-2.png",DaNangTV2 HD | TH Đà Nẵng
@@ -236,7 +236,7 @@ https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/nghe_an.png",NTV HD | TH Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/nam_dinh.png",NTV HD | Nam Định
-https://tv.TruyenHinh.Click/CoBan/141/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/141/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ninh_binh.png",NTV HD | TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/phu_tho.png",PTV HD | TH Phú Thọ
@@ -271,7 +271,7 @@ http://vthanh.utako.moe/9/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/afn.png",Asian Food Network
-https://tv.TruyenHinh.Click/CoBan/AfnHD/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/AfnHD/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
@@ -297,7 +297,7 @@ https://cdn2.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-https://tv.TruyenHinh.Click/CoBan/CNBC/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/CNBC/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
@@ -313,7 +313,7 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
-https://tv.TruyenHinh.Click/CoBan/Davinci/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/Davinci/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
@@ -347,7 +347,7 @@ http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/HGTV.png" group-title="🌿| Khám phá",HGTV Asia
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/HISTORY.png",History SE Asia
-https://tv.TruyenHinh.Click/CoBan/HistoryHD/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/HistoryHD/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ID.png",Investigation Discovery Asia
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_korea.png",KBS Korea
@@ -391,7 +391,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner TV Asia
 http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
-https://tv.TruyenHinh.Click/CoBan/Woman/TruyenHinh.Click
+https://tv.TruyenHinh.Click/CoBan/Woman/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://teohdtv.github.io/thumbs/SNG/WFC.png" group-title="🤣| Giải trí",World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
