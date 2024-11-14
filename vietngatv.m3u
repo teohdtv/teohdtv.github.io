@@ -838,11 +838,11 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 https://stream1.cinerama.uz/1031/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Radio.vov1" group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov1.png" radio="true",VOV1
-http://media.kythuatvov.vn:7001
+https://stream.vovmedia.vn/vov1
 #EXTINF:-1 tvg-id="Radio.vov2" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov2.png" radio="true",VOV2
-http://media.kythuatvov.vn:7003
+https://stream.vovmedia.vn/vov2
 #EXTINF:-1 tvg-id="Radio.vov3" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov3.png" radio="true",VOV3
-http://media.kythuatvov.vn:7005
+https://stream.vovmedia.vn/vov3
 #EXTINF:-1 tvg-id="Radio.vovTayBac" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_taybac.png" radio="true",VOV4 Tây Bắc
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 tvg-id="Radio.vovDongBac" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_dongbac.png" radio="true",VOV4 Đông Bắc
