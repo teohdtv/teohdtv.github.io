@@ -660,8 +660,6 @@ https://stream1.cinerama.uz/1057/tracks-v1a1/index.m3u8
 https://stream1.cinerama.uz/1207/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinoxit" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOXIT.png",КиноХит
 https://stream1.cinerama.uz/1055/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="krasnaya-linia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KL.png" group-title="🎬| Phim truyện",Красная Линия
-http://91.194.191.241:8081/chid23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="nashe-novoe-kino" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NASHE.png",Наше новое кино
 https://stream1.cinerama.uz/1051/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NST.png",НСТ
@@ -789,6 +787,8 @@ https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 https://stream1.cinerama.uz/1249/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="krasnaya-linia" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KL.png",Красная Линия
+http://91.194.191.241:8081/chid23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
 http://77.235.1.17/pobeda/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Telekafe.png",Телекафе
