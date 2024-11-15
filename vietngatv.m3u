@@ -404,6 +404,8 @@ https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u
 http://125hvt.ddns.net:21585/outdoor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pogo.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/POGO.png",POGO
 http://119.156.26.155:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/SET.png",Sony Entertainment Television
+http://119.156.26.155:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
