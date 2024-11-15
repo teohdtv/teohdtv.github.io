@@ -410,7 +410,7 @@ http://223.19.212.121:20131/bysid/258
 http://223.19.212.121:20131/bysid/259
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews
 http://223.19.212.121:20131/bysid/257
-#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RAI.png",Rai Italia
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
