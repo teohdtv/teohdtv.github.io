@@ -604,7 +604,9 @@ http://185.50.148.2:7703/FlixSnip/index.m3u8
 https://stream1.cinerama.uz/1443/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="plan-b" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/PLANB.png",Plan B
 http://77.235.1.17/planb/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="star-family" tvg-logo="https://teohdtv.github.io/thumbs/SNG/STARFAMILY.png",STAR FAMILY
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="star-cinema" tvg-logo="https://teohdtv.github.io/thumbs/SNG/STARCINEMA.png",Star Cinema
+http://77.235.1.17/star_cinema/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="star-family" tvg-logo="https://teohdtv.github.io/thumbs/SNG/STARFAMILY.png",Star Family
 http://77.235.1.17/star_family/index.m3u8
 #EXTINF:-1 tvg-id="start-air" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/START-AIR.png",Start Air
 http://77.235.1.17/start_air/index.m3u8
@@ -676,9 +678,9 @@ https://stream01.vnet.am/ZeeTV/mono.m3u8
 https://stream1.cinerama.uz/1060/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ILPLUS.png" group-title="🎬| Phim truyện",Иллюзион+
 http://sc.id-tv.kz/IlluzionPlus.m3u8
-#EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",РОДНОЕ КИНО
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",Родное кино
 https://stream1.cinerama.uz/1052/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="russky-detektiv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSD.png",РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="russky-detektiv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSD.png",Русский Детектив
 http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSB.png",Русский Бестселлер
 http://91.194.191.241:8081/chid75/tracks-v1a1/mono.m3u8
@@ -852,7 +854,7 @@ http://media.kythuatvov.vn:8031
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov6.png" radio="true",VOV6
 https://stream.vovmedia.vn/vov6
-#EXTINF:-1 tvg-id="Radio.vov5247" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_english.png" radio="true",VOV ENGLISH 24/7
+#EXTINF:-1 tvg-id="Radio.vov5247" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_english.png" radio="true",VOV English 24/7
 https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTHN" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
