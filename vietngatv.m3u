@@ -438,6 +438,8 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/ZEE.png",ZEE TV
+http://119.156.26.155:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
