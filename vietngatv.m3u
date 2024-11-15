@@ -680,7 +680,7 @@ https://stream1.cinerama.uz/1060/tracks-v1a1/index.m3u8
 http://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",РОДНОЕ КИНО
 https://stream1.cinerama.uz/1052/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="russky-detektiv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSВ.png",РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="russky-detektiv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSD.png",РУССКИЙ ДЕТЕКТИВ
 http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSB.png",Русский Бестселлер
 http://91.194.191.241:8081/chid75/tracks-v1a1/mono.m3u8
