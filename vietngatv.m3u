@@ -689,8 +689,9 @@ http://91.194.191.241:8081/chid66/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Rusi.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
-#EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV21.png",ТВ 21
-http://5.9.11.197:57419/chu-100/index.m3u8
+#EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV21.png" catchup="append" catchup-days="5" catchup-source="?utcstart=${start}&utcend=${end}",ТВ 21
+#EXTVLCOPT:http-referrer=http://fe.cliptv.az
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/365.png",365
 https://stream1.cinerama.uz/1242/tracks-v1a1/index.m3u8
