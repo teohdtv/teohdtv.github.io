@@ -110,7 +110,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/htv7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
-http://125hvt.ddns.net:21585/htv9/tracks-v1a1/mono.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
