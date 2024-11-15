@@ -596,6 +596,8 @@ https://stream01.vnet.am/Nauka/playlist.m3u8
 http://77.235.1.17/amedia_premium/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOLLYWOOD.png",BollywooD
 https://stream1.cinerama.uz/1444/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="bolt-ru" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOLT.png",Bolt
+http://77.235.1.17/bolt/index.m3u8
 #EXTINF:-1 tvg-id="cinema-ru" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CINEMA.png",Cinema
 https://stream1.cinerama.uz/1227/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="flixsnip" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Flix.png",FLIXSNIP
