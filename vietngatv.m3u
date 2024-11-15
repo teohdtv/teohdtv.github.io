@@ -333,7 +333,7 @@ https://cdn2.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-http://125.227.210.55:8152/VideoInput/play.ts
+https://tv.TruyenHinh.Click/CoBan/CNBC/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cgtn_doc.png",CGTN Documentary
@@ -423,7 +423,7 @@ https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRAVEL.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_asia.png",TV5Monde ASIE
-http://125.227.210.55:15533/VideoInput/play.ts
+http://125hvt.ddns.net:21585/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_monde_style.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner TV Asia
