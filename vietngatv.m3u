@@ -487,8 +487,8 @@ http://sc.id-tv.kz/tntComedy_34_35.m3u8
 http://77.235.1.17/muz_tv/index.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://77.235.1.17/che/index.m3u8
-#EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
-http://s5.merlive.am:80/stslove/index.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
 http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
