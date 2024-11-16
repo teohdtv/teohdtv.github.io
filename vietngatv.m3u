@@ -584,7 +584,7 @@ http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-tv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RED.png",.Red
 http://178.124.152.238:8088/sony
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SCI-FI.png",.Sci-fi
-http://s1.merlive.am/Sci-Fi/index.m3u8
+http://s5.merlive.am/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A1.png",AMEDIA 1
 http://77.235.1.17/amedia1/index.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A2.png",AMEDIA 2
