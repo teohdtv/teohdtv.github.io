@@ -28,7 +28,7 @@ https://tv.TruyenHinh.Click/CoBan/vtv8hd/TuyetDoiKhongKinhDoanh
 http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
-https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
+https://thvip.site/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt
 https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV3.png",ON Sports
@@ -60,7 +60,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/TTTTHD.png",ON Sports News
 https://tv.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
-https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
+https://thvip.site/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VFAMILY.png",ON VFamily
 https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONKIDS.png",ON Kids
@@ -76,13 +76,13 @@ http://p1.cvtv.xyz/vtc1?token=live
 #EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC2.png",VTC2
 https://thvip.site/vtc2/index.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC3.png",VTC3
-https://tv.TruyenHinh.Click/CoBan/vtc3hd/TuyetDoiKhongKinhDoanh
+https://thvip.site/vtc3/index.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC4.png",VTC4
 https://thvip.site/vtc4/index.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC5.png",VTC5
 https://thvip.site/vtc5/index.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC6.png",VTC6
-https://tv.TruyenHinh.Click/CoBan/vtc6hd/TuyetDoiKhongKinhDoanh
+https://thvip.site/vtc6/index.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7.png",VTC7
 https://thvip.site/today/index.m3u8
 #EXTINF:-1 tvg-id="vtc8hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC8.png",VTC8
@@ -304,8 +304,8 @@ http://49.0.64.96:8007/ABC
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/angel_tv.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-id="animax" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax
-http://vthanh.utako.moe/9/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-id="animaxhd" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN Asia
