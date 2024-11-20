@@ -444,7 +444,8 @@ http://119.156.26.155:8000/play/a06v/index.m3u8
 http://49.0.64.96:8007/Zoomoo
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
-http://s5.merlive.am/pervyj/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета Азия
 https://streaming.thestream.cyou/live/211-1k_v5.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-id="match-tv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",МАТЧ!
@@ -485,8 +486,8 @@ http://sc.id-tv.kz/tntComedy_34_35.m3u8
 https://streaming.thestream.cyou/live/618-1k_v5.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://77.235.1.17/che/index.m3u8
-#EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
-http://s5.merlive.am/stslove/index.m3u8
+#EXTINF:-1 tvg-id="sts-love-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
 http://sc.id-tv.kz/tnt4_34_35.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
