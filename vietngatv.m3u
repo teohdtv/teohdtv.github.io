@@ -120,13 +120,11 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hanoi2.png",HanoiTV2 | TH Hà Nội
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL1.png",THVL1 | TH Vĩnh Long
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=25
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL2.png",THVL2 | TH Vĩnh Long
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=26
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL3.png",THVL3 | TH Vĩnh Long
 https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/THVL1.png",THVL4 | TH Vĩnh Long
@@ -137,7 +135,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ben_tre.png",THBT HD | TH Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://thvip.site/bentre/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=40
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV2 HD | TH Bình Dương
@@ -186,7 +184,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/tra_vinh2.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/brvt.png",BRT HD | TH Vũng Tàu
-https://tv.TruyenHinh.Click/CoBan/182/TuyetDoiKhongKinhDoanh
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/da-nang-1.png",DaNangTV1 HD | TH Đà Nẵng
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/da-nang-2.png",DaNangTV2 HD | TH Đà Nẵng
@@ -250,7 +248,8 @@ https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/nghe_an.png",NTV HD | TH Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/nam_dinh.png",NTV HD | Nam Định
-https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=73
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ninh_binh.png",NTV HD | TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/phu_tho.png",PTV HD | TH Phú Thọ
@@ -414,6 +413,29 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://119.156.26.155:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmovie1/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
+https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://oipf0znpmnliv.vcdn.cloud/hls/happykid/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
+https://oipf0znpmnliv.vcdn.cloud/hls/boxmusic/index.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
+https://oipf0znpmnliv.vcdn.cloud/hls/planetearth/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
+https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png", In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BH.png", Box Hits 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
 https://stream1.cinerama.uz/1019/tracks-v1a1/mono.m3u8
