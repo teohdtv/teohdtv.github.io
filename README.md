@@ -4,7 +4,7 @@ https://bom.so/Beartv
 
 https://teohdtv.github.io/vietngatv.m3u
 
-https://teohdtv.github.io/vietngatv_vod.m3u
+https://s.id/vietngatv2025
 
 http://bit.ly/japaniptv
 
