@@ -57,8 +57,6 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=187
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=179
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONLIFE.png",ON Life
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=188
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONGOLF.png",ON Golf
-https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TruyenHinh.Click
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
