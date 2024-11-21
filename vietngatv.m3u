@@ -232,21 +232,21 @@ http://quangtritv.vn/tv/tvvnpt2024.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/bac_giang.png",BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/bac_kan.png",TBK HD | TH Bắc Kạn
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=37
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/bac_ninh.png",BTV HD | TH Bắc Ninh
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/cao_bang.png",CRTV HD | TH Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/dien_bien.png",ĐTV | TH Điện Biên
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=52
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ha_giang.png",HGTV HD | TH Hà Giang
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=56
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ha_nam.png",THHN HD | TH Hà Nam
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ha_tinh.png",HTTV HD | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hai_duong.png",THD HD | TH Hải Dương
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&pkg=pkg11.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=59
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hai_phong.png",THP HD | TH Hải Phòng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hai_phong_plus.png",THP+ HD | TH Hải Phòng
@@ -256,7 +256,7 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hung_yen.png",HY HD | TH Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/lai_chau.png",LTV HD | TH Lai Châu
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=68
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/lang_son.png",LSTV HD | TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/lao_cai.png",THLC HD | TH Lào Cai
@@ -281,7 +281,7 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/thai_nguyen.png",TN HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/thanh_hoa.png",TTV HD | TH Thanh Hóa
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=88
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/tuyen_quang.png",TTV HD | TH Tuyên Quang
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/vinh_phuc.png",VP HD | TH Vĩnh Phúc
@@ -337,8 +337,8 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
-http://77.235.1.17/da_vinci/index.m3u8
+#EXTINF:-1 tvg-id="davinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=214
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
