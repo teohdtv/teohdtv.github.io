@@ -207,6 +207,8 @@ https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/phu_yen.png",PTP | TH Phú Yên
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/quang_binh.png",QBTV | TH Quảng Bình
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=79
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/quang_nam.png",QRT | TH Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/quang_ngai.png",PTQ | TH Quảng Ngãi
