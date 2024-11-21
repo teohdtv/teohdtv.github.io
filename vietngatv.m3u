@@ -460,7 +460,7 @@ http://91.224.169.250:5000/c303
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV.png",НТВ МИР
 https://stream1.cinerama.uz/1434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
-http://91.224.169.250:5000/c305
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
 http://77.235.1.17/rossia_k_crdru/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
@@ -468,7 +468,7 @@ http://player.smotrim.ru/iframe/stream/live_id/64739?43e=5.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
-http://91.224.169.250:5000/c309
+http://185.23.80.28:8080/OTR/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
 https://stream1.cinerama.uz/1281/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ
