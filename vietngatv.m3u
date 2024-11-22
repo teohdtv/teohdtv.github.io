@@ -798,7 +798,7 @@ https://stream.vovmedia.vn/vov6
 https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTHN" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio.vovGTHCM" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông TPHCM
+#EXTINF:-1 tvg-id="Radio.vovGTHCM" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông TP.HCM
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
