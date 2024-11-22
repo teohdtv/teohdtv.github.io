@@ -42,7 +42,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=189
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=176
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV12.png",ON Style
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=184
-#EXTINF:-1 tvg-id="vtvcab13" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONHSP.png",ON Home Shopping
+#EXTINF:-1 tvg-id="vtvcab13" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONHSP.png",ON Home Shopping
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=27
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=185
@@ -550,7 +550,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
 http://86.57.178.105:10821
 
-#EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/L24.png",Leomax 24
+#EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/L24.png",Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="shopping-live" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHOPPING-LIVE.png",Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
