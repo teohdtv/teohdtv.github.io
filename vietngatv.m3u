@@ -454,7 +454,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 https://stream1.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета Азия
 http://sc.id-tv.kz/RossiyaRTR.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-id="match-tv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",МАТЧ!
+#EXTINF:-1 tvg-id="match-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MATCH.png",МАТЧ!
 http://91.224.169.250:5000/c303
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV.png",НТВ МИР
 https://stream1.cinerama.uz/1434/tracks-v1a1/mono.m3u8
