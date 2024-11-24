@@ -544,6 +544,8 @@ https://cdn2.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
 http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZHARA-TV.png",Жара
+http://185.23.80.28:8080/ZhARA/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/L24.png",Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
@@ -658,8 +660,6 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Rusi.png",Русский Иллюзион
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
-#EXTINF:-1 tvg-id="tvxxi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV21.png",ТВ 21
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/365.png",365
 https://stream1.cinerama.uz/1242/tracks-v1a1/index.m3u8
@@ -668,8 +668,6 @@ http://31.148.48.15:80/RTG/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOP-SECRET.png",Top Secret
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
-#EXTINF:-1 tvg-id="travel-adventure" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TRAVEL.png",Travel+Adventure
-http://mfe01.cliptv.az/dash/Travel_Channel_HD987uyt.ism/playlist.mpd
 #EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/EXPLORE.png",Viju Explore
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
