@@ -494,7 +494,7 @@ https://edge02.odtv.az/o5/chetv/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
 http://185.23.80.28:8080/STSLove/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
-http://sc.id-tv.kz/tnt4_34_35.m3u8
+https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
 https://stream1.cinerama.uz/1272/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/2X2.png",2x2
