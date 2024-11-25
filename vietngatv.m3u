@@ -118,6 +118,9 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=13
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/htvc_plus.png",HTVC+
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=132
 
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6
+https://vc.101vn.com/htv/htvcmb.php?id=232
+
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://teohdtv.github.io/thumbs/National/QHTV.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
@@ -307,7 +310,7 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
 http://p1.cvtv.xyz:81/c4?token=live
@@ -393,6 +396,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 http://119.156.26.155:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/SET.png",Sony Entertainment Television
 http://119.156.26.155:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="SkyNews.uk" tvg-logo="https://teohdtv.github.io/thumbs/INT/SKYN.png",Sky News
+http://p1.cvtv.xyz:81/skn?token=live
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
@@ -481,8 +486,8 @@ https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 http://94.230.128.105:8080/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
 http://94.230.128.105:8080/MIR/index.m3u8
-#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
-http://sc.id-tv.kz/tntComedy_34_35.m3u8
+#EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
+http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/muztv/playlist.m3u8
@@ -587,9 +592,11 @@ http://s1.merlive.am/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-scifi" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SCI-FI.png",.Sci-fi
 http://s5.merlive.am/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A1.png",AMEDIA 1
-http://sc.id-tv.kz/A1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A2.png",AMEDIA 2
-http://sc.id-tv.kz/A2.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 tvg-id="amedia-hit" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-HIT.png",Amedia Hit
 https://stream01.vnet.am/Nauka/playlist.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/A-PRE.png",Amedia Premium
@@ -651,8 +658,6 @@ https://stream1.cinerama.uz/1237/tracks-v1a1/index.m3u8
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://teohdtv.github.io/thumbs/SNG/INDIANKOE.png",Индийское кино
 https://stream1.cinerama.uz/1060/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ILPLUS.png" group-title="🎬| Phim truyện",Иллюзион+
-http://sc.id-tv.kz/IlluzionPlus.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",Родное кино
 https://stream1.cinerama.uz/1052/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSROMAN.png",Русский Роман
@@ -719,8 +724,6 @@ https://stream1.cinerama.uz/1038/tracks-v1a1/index.m3u8
 http://stream01.vnet.am/Channel_124/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZAG.png",Загородный
 https://stream01.vnet.am/DTX/mono.m3u8
-#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZH.png",Загородная жизнь
-http://sc.id-tv.kz/Zagorod.m3u8
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZOO.png" group-title="🌿| Khám phá",Зоо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s92/04.m3u8
