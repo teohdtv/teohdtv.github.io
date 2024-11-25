@@ -545,7 +545,7 @@ https://cdn2.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
 http://31.148.48.15:80/Shanson_TV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZHARA-TV.png",Жара
+#EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZHARA-TV.png",Жара TV
 http://185.23.80.28:8080/ZhARA/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/L24.png",Leomax 24
