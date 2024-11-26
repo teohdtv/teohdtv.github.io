@@ -477,8 +477,8 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/index.m3u8
 https://streaming.thestream.cyou/live/296-1k_v5.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DOM.png",Домашний International
 https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3
-http://94.230.128.105:8080/TB3/index.m3u8
+#EXTINF:-1 tvg-id="tv3-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3 International
+https://stream1.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FRIDAY.png",Пятница
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
