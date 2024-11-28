@@ -517,8 +517,8 @@ http://edge02.odtv.az/o1/rbktv/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR24.png",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
-http://85.187.13.40:18000/8tv
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
+http://185.37.150.40:8092/8kanal/playlist.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ENISEY.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://teohdtv.github.io/thumbs/SNG/K24.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Катунь 24
