@@ -456,7 +456,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 #EXTINF:-1 tvg-id="pervy" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал
 https://stream1.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета СНГ
-http://player.smotrim.ru/iframe/stream/live_id/63253?43e=5.m3u8
+http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
 http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
