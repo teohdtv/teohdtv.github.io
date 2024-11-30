@@ -295,26 +295,24 @@ http://49.0.64.96:8007/ABC
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/angel_tv.png",Angel TV Far East
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="afn" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/afn.png",Asian Food Network
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=215
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+http://119.156.26.155:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
 http://125.227.210.55:8161/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
-https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+http://119.156.26.155:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
-https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
-https://cdn2.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV15.png",CCTV-15
-https://cdn2.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
@@ -339,8 +337,6 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=214
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
-https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/DISCOVERY.png",Discovery Channel Asia
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoverykids.png",Discovery Kids
@@ -373,12 +369,8 @@ https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ID.png",Investigation Discovery Asia
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_korea.png",KBS Korea
-https://cdn2.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_world.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",Lotus Macau Satellite TV
-https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nickelodeon India
@@ -387,8 +379,6 @@ http://119.156.26.155:8000/play/a05v/index.m3u8
 http://119.156.26.155:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/nhk_premium.png",NHK World Premium
-https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/outdoor.png",Outdoor
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 #EXTINF:-1 tvg-id="Pogo.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/POGO.png",POGO
@@ -466,7 +456,7 @@ http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 http://player.smotrim.ru/iframe/stream/live_id/64739?43e=5.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр
@@ -482,7 +472,7 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3
 http://94.230.128.105:8080/TB3/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FRIDAY.png",Пятница International
-https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
+http://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
 http://94.230.128.105:8080/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="mir-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
@@ -539,7 +529,7 @@ http://s5.merlive.am:80/Mezzo/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
 https://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
-https://cdn2.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
+https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Strana.png",Страна FM ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHANSON.png",Шансон ТВ
@@ -611,7 +601,7 @@ https://stream1.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/TV1000-RUS.png",Viju TV1000 Русское
 https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VREMIYA.png",Время
-https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
+http://31.148.48.15:80/Vremya/index.m3u8?token=test
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino.png",Дом Кино
 http://stream01.vnet.am/DomKino/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino-pre.png",Дом Кино Премиум
@@ -676,7 +666,7 @@ https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🌿| Khám phá" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VMIRE.png",В мире животных
 https://stream1.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bobior" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOBER.png",Бобер
-https://cdn2.skygo.mn/live/disk1/Bober/HLS-FTA/Bober.m3u8
+http://213.226.137.140:81/tl/l112/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DO.png",Дикая охота
 http://stream01.vnet.am/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DR.png",Дикая рыбалка
@@ -715,7 +705,7 @@ https://stream1.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KOS.png" group-title="🌿| Khám phá",Первый космический
 https://stream1.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="poexali" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POEH.png",Поехали!
-https://cdn2.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/PRIK.png",Приключения
 https://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Arsenal.png" group-title="🌿| Khám phá",Телеканал Арсенал
@@ -737,11 +727,11 @@ http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lapki.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
-https://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
+https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 https://stream1.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Telekafe.png",Телекафе
-https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
+http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
 http://stream01.vnet.am/Channel_129/tracks-v1a1/mono.m3u8
 
