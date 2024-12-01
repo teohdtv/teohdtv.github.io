@@ -23,6 +23,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=6
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=115
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V9.png",VTV9
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=8
+#EXTINF:-1 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/vtv-hyundai.png",VTV HYUNDAI Homeshopping
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=27
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=180
@@ -42,8 +44,6 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=189
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=176
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV12.png",ON Style
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=184
-#EXTINF:-1 tvg-id="vtvcab13" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/ONHSP.png",ON Home Shopping - VTV HYUNDAI
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=27
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=185
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
