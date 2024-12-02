@@ -477,7 +477,7 @@ https://stream1.cinerama.uz/1281/tracks-v1a1/index.m3u8
 http://94.230.128.105:8080/PEH_TB/index.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС
+#EXTINF:-1 tvg-id="sts-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС
 http://94.230.128.105:8080/CTC/index.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DOM.png",Домашний International
 http://stream02.vnet.am/Domashniy/tracks-v1a1/index.m3u8
