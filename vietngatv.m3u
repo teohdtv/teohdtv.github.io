@@ -379,8 +379,6 @@ https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 https://cdn2.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_world.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",Lotus Macau Satellite TV
-https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nickelodeon India
@@ -417,6 +415,8 @@ http://49.0.64.96:8007/RAI_Asia
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",TDM Macau Satellite TV
+https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRT.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TLC.png",TLC Asia
@@ -455,8 +455,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BH.png",Box Hits
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал
-https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
+https://stream1.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета СНГ
 http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
@@ -739,7 +739,7 @@ http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lapki.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
-https://streaming.thestream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 https://stream1.cinerama.uz/1249/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Telekafe.png",Телекафе
