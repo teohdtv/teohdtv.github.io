@@ -475,8 +475,8 @@ http://94.230.128.105:8080/OTP/index.m3u8
 https://stream1.cinerama.uz/1281/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ International
 http://stream01.vnet.am/RenTv/index.m3u8
-#EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="spas-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
+http://94.230.128.105:8080/SPAS/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС International
 http://sc.id-tv.kz/STS.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DOM.png",Домашний International
