@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://content.stream-link.org/epg/guide.xml,https://xmltv.tvkaista.net/guides/nowplayer.now.com_en.xml,https://iptvx.one/epg/epg.xml.gz,https://xmltv.tvkaista.net/guides/firstmedia.com.xml,https://xmltv.tvkaista.net/guides/dens.tv.xml,https://xmltv.tvkaista.net/guides/playtv.unifi.com.my.xml,https://xmltv.tvkaista.net/guides/content.astro.com.my.xml,https://xmltv.tvkaista.net/guides/mncvision.id.xml,https://xmltv.tvkaista.net/guides/visionplus.id.xml,https://xmltv.tvkaista.net/guides/dishtv.in.xml,https://xmltv.tvkaista.net/guides/programacion-tv.elpais.com.xml"
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://bom.so/Beartv - https://s.id/vietngatv2025 & https://tth.vn/vietngatv
 
-#EXTINF:-1 group-title="ASEAN CUP 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff1.png",ASEAN Cup Live 1
+#EXTINF:-1 group-title="ASEAN CUP 2024" group-logo="https://teohdtv.github.io/thumbs/Groups/AFF.png" tvg-logo="https://teohdtv.github.io/thumbs/Other/AFF1.png",ASEAN Cup Live 1
 http://p1.cvtv.xyz/fpt?token=live
-#EXTINF:-1 group-title="ASEAN CUP 2024" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff2.png",ASEAN Cup Live 2
+#EXTINF:-1 group-title="ASEAN CUP 2024" tvg-logo="https://teohdtv.github.io/thumbs/Other/AFF2.png",ASEAN Cup Live 2
 http://p1.cvtv.xyz/fpt2?token=live
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
