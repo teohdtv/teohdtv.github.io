@@ -10,26 +10,18 @@ http://p1.cvtv.xyz/fpt2?token=live
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png",VTV2
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=3
-#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png",VTV2 (50FPS)
-http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V3.png",VTV3
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=4
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V4.png",VTV4
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=108
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png",VTV5
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=110
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png",VTV5 (50FPS)
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=157
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=207
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=98
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ (50FPS)
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtvct?token=live
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=6
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
@@ -109,9 +101,6 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7
 https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV7.png",HTV7 (50FPS)
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/htv7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/COOP.png",HTV CO.OP
@@ -483,7 +472,7 @@ http://94.230.128.105:8080/5_kanal/index.m3u8
 http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 http://player.smotrim.ru/iframe/stream/live_id/21?43e=5.m3u8
-#EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель
+#EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
 http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://94.230.128.105:8080/OTP/index.m3u8
