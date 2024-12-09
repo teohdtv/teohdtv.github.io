@@ -515,7 +515,7 @@ http://185.23.80.28:8080/Yu/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUTV.png",RU.TV
 https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RBC.png",РБК
-http://stream01.vnet.am/Shop24/mono.m3u8
+https://stream1.cinerama.uz/1438/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/IZ.png",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR24.png",МИР 24
@@ -622,7 +622,7 @@ https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vremia" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VREMIYA.png",Время
 https://cdn2.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino.png",Дом Кино
-http://stream01.vnet.am/DomKino/mono.m3u8
+https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/dom-kino-pre.png",Дом Кино Премиум
 http://stream02.vnet.am/THT/mono.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DORAMA.png" group-title="🎬| Phim truyện",Дорама
@@ -695,7 +695,7 @@ https://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Gla.png",Глазами Туриста
 https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZAG.png",Загородный
-http://stream01.vnet.am/DTX/mono.m3u8
+https://stream1.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivi" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/JV.png",Живи
 https://stream1.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZPLANETA.png",Живая Планета
