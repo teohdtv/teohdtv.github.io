@@ -419,11 +419,11 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 http://119.156.26.155:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/StarPlus.png",Star Plus HD
 http://119.156.26.155:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXCN.png",Phoenix Chinese Channel
 http://223.19.212.121:20131/bysid/258
-#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXHK.png",Phoenix Hong Kong
+#EXTINF:-1 tvg-id="PhoenixHongKongChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXHK.png",Phoenix Hong Kong Channel
 http://223.19.212.121:20131/bysid/259
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews Channel
 http://223.19.212.121:20131/bysid/257
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia
 http://49.0.64.96:8007/RAI_Asia
@@ -431,7 +431,7 @@ http://49.0.64.96:8007/RAI_Asia
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",TDM Macau Satellite TV
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",TDM Macau
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRT.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -765,8 +765,6 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
 http://stream01.vnet.am/Channel_129/mono.m3u8
 
-#EXTINF:-1 tvg-id="1plus1-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/1plus1-international.png",1+1 International (Україна)
-http://80.245.93.242:9030/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ (Қазақстан)
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
 #EXTINF:-1 tvg-id="dumatv" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DUMA.png",Дума ТВ
