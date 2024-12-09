@@ -766,7 +766,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
 http://stream01.vnet.am/Channel_129/mono.m3u8
 
-#EXTINF:-1 tvg-id="1plus1-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",1+1 International (Україна)
+#EXTINF:-1 tvg-id="1plus1-int" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/1plus1-international.png",1+1 International (Україна)
 http://80.245.93.242:9030/play/a005/index.m3u8?key=tva.org.ua
 #EXTINF:-1 tvg-id="xabar24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/24KZ.png",24KZ (Қазақстан)
 https://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
