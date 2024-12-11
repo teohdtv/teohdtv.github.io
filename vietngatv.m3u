@@ -283,6 +283,8 @@ http://125.227.210.55:8161/VideoInput/play.ts
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="Cinemachi.uk" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemachi.png",Cinemachi
+http://49.0.64.96:8007/Cinemachi
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
@@ -294,7 +296,7 @@ https://cdn2.skygo.mn/live/disk1/CCTV-10/HLS-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cna.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
-http://p1.cvtv.xyz:81/cnbc?token=live
+http://stream2.cinerama.uz/1256/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/cnn_international.png",CNN International Asia Pacific
 https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="Colors.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Colors.png",Colors
@@ -340,9 +342,11 @@ http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24.png",France 24 French
-http://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+http://49.0.64.96:8007/France24
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/food.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/GOLF.png",Golf Channel Asia
+http://49.0.64.96:8007/GOLF
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/HBO.png",HBO Asia
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/HGTV.png" group-title="🌿| Khám phá",HGTV Asia
