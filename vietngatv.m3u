@@ -461,7 +461,7 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=235
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=239
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
-https://stream1.cinerama.uz/1019/tracks-v1a1/mono.m3u8
+http://s5.merlive.am:80/pervyj/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета Азия
 http://player.smotrim.ru/iframe/stream/live_id/63254?43e=5.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
@@ -473,7 +473,7 @@ http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 http://player.smotrim.ru/iframe/stream/live_id/21?43e=5.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
-http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр Международный
@@ -497,11 +497,11 @@ http://94.230.128.105:8080/MIR/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
-http://stream01.vnet.am/MuzTv/mono.m3u8
+http://s5.merlive.am:80/muztv/index.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://185.23.80.28:8080/Che/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
-http://185.23.80.28:8080/STSLove/index.m3u8?token=test
+http://s5.merlive.am:80/stslove/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
 http://185.23.80.28:8080/TNT4/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
@@ -520,8 +520,8 @@ https://stream1.cinerama.uz/1438/tracks-v1a1/mono.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR24.png",МИР 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал Международный
-https://stream1.cinerama.uz/1262/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
+http://s5.merlive.am:80/8Kanal/index.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ENISEY.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://teohdtv.github.io/thumbs/SNG/K24.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Катунь 24
