@@ -2,25 +2,21 @@
 #EXTM3U Always update stable channels/Luôn cập nhật kênh ổn định/Всегда обновляйте стабильные каналы - https://bom.so/Beartv - https://s.id/vietngatv2025 & https://tth.vn/vietngatv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://teohdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V1.png",VTV1
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtv1?token=live
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.249/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V2.png",VTV2
-http://p1.cvtv.xyz/vtv2?token=live
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.13/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V3.png",VTV3
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtv3?token=live
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.247/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V4.png",VTV4
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.20/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V5.png",VTV5
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtv5?token=live
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.131/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nam-bo.png",VTV5 Tây Nam Bộ
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.236/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/v5-tay-nguyen.png",VTV5 Tây Nguyên
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.108/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V6.png",VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-http://p1.cvtv.xyz/vtvct?token=live
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.245/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V7.png",VTV7
 http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.96/test/123/playlist.mpegts
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://teohdtv.github.io/thumbs/VTV/V8.png",VTV8
