@@ -632,6 +632,9 @@ http://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://teohdtv.github.io/thumbs/SNG/INDIANKOE.png",Индийское кино
 http://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="illuzion-plus" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ILPLUS.png",Иллюзион+
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+https://s83.chas.tv:8082/chas/illyuzionpl.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",Родное кино
 http://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSROMAN.png",Русский Роман
