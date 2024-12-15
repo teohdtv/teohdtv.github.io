@@ -454,7 +454,7 @@ http://94.230.128.105:8080/MIR/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
-http://stream01.vnet.am/MuzTv/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/muztv/index.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://185.23.80.28:8080/Che/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
