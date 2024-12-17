@@ -356,7 +356,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN East Asia
-http://125hvt.ddns.net:21585/axn/index.m3u8
+http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/afn.png",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36fari/537.36
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=215
@@ -371,7 +371,7 @@ https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
-http://p1.cvtv.xyz:81/c4?token=live
+https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
 https://cdn2.skygo.mn/live/disk1/CCTV-14/HLS-FTA/CCTV-14.m3u8
 #EXTINF:-1 tvg-id="CCTV15" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/BXB2IkB.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV15.png",CCTV-15
@@ -464,6 +464,8 @@ http://119.156.26.155:8000/play/a06y/index.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8
 #EXTINF:-1 tvg-id="SPOTV.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/StarMovies.png",STAR MOVIES
 http://119.156.26.155:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/StarPlus.png",Star Plus HD
@@ -497,7 +499,7 @@ http://49.0.64.96:8007/TV5
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_monde_style.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",WBTV
-http://125hvt.ddns.net:21585/wbtv/index.m3u8
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/ZEE.png",ZEE TV
