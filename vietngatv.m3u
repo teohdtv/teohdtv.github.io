@@ -203,10 +203,13 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/ben_tre.png",THBT HD | TH Bến Tre
 https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV1 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_duong.png",BTV2 HD | TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/binh_phuoc.png",BPTV1 HD | TH Bình Phước
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
