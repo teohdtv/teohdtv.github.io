@@ -614,7 +614,7 @@ http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BRIDGE.png",Bridge
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/bridgetvtv.stream/playlist.m3u8
+http://s83.chas.tv:8081/chas/bridge.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BRIDGE-CLASSIC.png",Bridge Classic
 http://stream01.vnet.am/BRIDGETVClassic/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/HITS.png",Bridge Hits
