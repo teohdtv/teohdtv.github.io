@@ -532,8 +532,8 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=163
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/Jdpab5Q.png" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",Россия РТР
-http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",Россия РТР Азия
+https://stream1.freetv.fun/rtr-planeta-4.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
 http://stream2.cinerama.uz/1434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
@@ -626,7 +626,8 @@ http://stream01.vnet.am/Channel_115/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
-http://s5.merlive.am:80/Mezzo/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
 http://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
@@ -653,8 +654,6 @@ http://stream2.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VGOS.png",В Гостях У Сказки
 http://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="liova" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Leva.png",Лёва
-http://s5.merlive.am:80/planb/index.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Mama.png",Мама
 http://stream2.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Mult.png",Мульт
@@ -826,7 +825,8 @@ http://stream01.vnet.am/Bober/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/nostalgiya.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-STYLE.png" group-title="🤣| Giải trí",НТВ Стиль
-http://s1.merlive.am/ntvstil/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="lapki-live" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lapki.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/POBEDA.png",Победа
