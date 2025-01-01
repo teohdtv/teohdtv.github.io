@@ -1,3 +1,5 @@
+http://dmi3y-tv.ru/iptv/Dmitry-tv.m3u
+
 https://tth.vn/vietngatv
 
 https://bom.so/Beartv
