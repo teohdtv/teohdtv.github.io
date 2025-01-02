@@ -546,8 +546,8 @@ http://94.230.128.105:8080/TB3/index.m3u8
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
 http://94.230.128.105:8080/Zvezda/index.m3u8
-#EXTINF:-1 tvg-id="mir-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
-http://94.230.128.105:8080/MIR/index.m3u8
+#EXTINF:-1 tvg-id="mir-kz" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР (Международный поток)
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ
 http://94.230.128.105:8080/THT/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
