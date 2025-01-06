@@ -707,7 +707,7 @@ http://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KIN.png",КИНЕКО
 http://s1.merlive.am:80/kineko/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINO-TV.png",Кино ТВ
-http://31.148.48.15/Kino_TV/index.m3u8
+http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="kinosvidanie" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOSVID.png",Киносвидание
 http://stream2.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KINOKOMEDIYA.png",Кинокомедия
