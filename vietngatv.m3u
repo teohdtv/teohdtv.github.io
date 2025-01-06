@@ -397,6 +397,8 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://teohdtv.github.io/thumbs/INT/CGTN.png" group-title="🌏| Đối ngoại",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="da-vinci" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Da-Vinci.png",Da Vinci Asia
+http://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/Discoveryasia.png",Discovery Asia
 https://cdn2.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/DWTV.png",DW English
