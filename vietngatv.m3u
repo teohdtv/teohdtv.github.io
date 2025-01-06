@@ -842,6 +842,8 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="gags-network" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/GSN.png",Gagsnetwork
 https://s3.merlive.am/gagsnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sovsek" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOP-SECRET.png" group-title="🤣| Giải trí",TOP SECRET
+http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KVN.png",КВН
 http://stream01.vnet.am/Bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
@@ -858,8 +860,6 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 https://cdn2.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SARAFAN.png" group-title="🤣| Giải trí",Сарафан
 http://stream2.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sovsek" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOP-SECRET.png" group-title="🤣| Giải trí",Совершенно секретно
-http://91.205.199.3/sovershennosekretno/index.m3u8
 #EXTINF:-1 tvg-id="telekafe" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Telekafe.png",Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTV.png",Центральное ТВ
