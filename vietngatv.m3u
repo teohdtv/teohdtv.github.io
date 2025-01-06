@@ -518,7 +518,7 @@ http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1434/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/pyatyi-hq.stream/playlist.m3u8
+http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
 http://stream2.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
@@ -527,7 +527,7 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/otrtv-hq.stream/playlist.m3u8
+http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр International
 http://stream2.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ International
@@ -564,7 +564,8 @@ http://stream2.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="super" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SUB.png",Суббота
-http://s83.chas.tv:8081/chas/supertv.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
+http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUTV.png",RU.TV
@@ -892,7 +893,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-ua" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/Inter-UA.png",Iнтер (Україна)
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/inter.stream/playlist.m3u8
+http://s83.chas.tv:8081/chas/inter.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/LDPR.png",ЛДПР ТВ
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 
