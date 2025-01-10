@@ -419,8 +419,6 @@ http://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 http://stream2.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/FOXNEWS.png" group-title="🌏| Đối ngoại",FOX News Channel
-http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="france24-fr" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24.png",France 24 French
@@ -826,8 +824,6 @@ http://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MYPLANET.png",Моя Планета
 http://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KTO.png",Кто есть кто
-http://s7.merlive.am/ktoestkto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KUHNA.png",Кухня
 http://stream2.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oruzhie" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORU.png",Оружие
