@@ -418,7 +418,7 @@ https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 tvg-id="english-club-tv" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ECTV.png",English Club TV Int.
 http://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/euro_news.png",Euronews Asia
-http://stream01.vnet.am/Channel_119/mono.m3u8
+http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 http://stream2.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/FOXNEWS.png" group-title="🌏| Đối ngoại",FOX News Channel
