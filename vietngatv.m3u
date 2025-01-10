@@ -514,8 +514,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?
 
-#EXTINF:-1 tvg-id="pervy" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал
-http://tv.streams.baikal-telecom.net:8080/PerviyHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета СНГ
 http://stream02.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
@@ -563,7 +564,7 @@ http://s1.merlive.am:80/stslove/tracks-v1a1/mono.m3u8
 https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
 http://stream2.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2na2" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/2X2.png",2x2
+#EXTINF:-1 tvg-id="2na2" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/2X2.png",2x2
 http://s1.merlive.am/2x2tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SUB.png",Суббота
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
