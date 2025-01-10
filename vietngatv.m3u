@@ -584,7 +584,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playl
 #EXTINF:-1 tvg-id="360-news" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/360-NEWS.png",360° НОВОСТИ HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🤣| Giải trí",8 канал
-http://91.205.199.3/8kanal/index.m3u8
+http://s1.merlive.am:80/8Kanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ENISEY.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://teohdtv.github.io/thumbs/SNG/K24.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
