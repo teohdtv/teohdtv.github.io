@@ -774,7 +774,7 @@ http://s3.merlive.am/tainigalaktiki/tracks-v1a1/mono.m3u8
 http://91.205.199.3/rtgtv/index.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTG.png",RTG HD
 http://tv.streams.baikal-telecom.net:8080/RTG_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TERRA.png",TERRA HD
+#EXTINF:-1 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TERRA.png",TERRA
 http://s3.merlive.am:80/Terrahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-explore" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/EXPLORE.png",Viju Explore
 http://stream2.cinerama.uz/1045/tracks-v1a1/mono.m3u8
@@ -782,7 +782,7 @@ http://stream2.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/NATURE.png",Viju Nature
 http://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/PLANET.png",viju+ Planet HD
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/PLANET.png",viju+ Planet
 http://s1.merlive.am:80/vijuplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zoopark" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZOOPARK.png",ZooПaрк
 http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
