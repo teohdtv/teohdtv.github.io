@@ -509,8 +509,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал Азия
-http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета СНГ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета Армения
 http://stream01.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
 http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
@@ -543,8 +544,8 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Friday-Int.png",Пятница! International
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
-http://stream01.vnet.am/Zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
+http://94.230.128.105:8080/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
 http://stream02.vnet.am/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ International
