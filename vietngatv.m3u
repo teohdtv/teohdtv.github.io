@@ -356,7 +356,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN East Asia
-http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
@@ -469,6 +469,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRAVEL.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
+#EXTINF:-1 tvg-id="tvNAsia.hk" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/TVN.png",tvN Asia
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/TvN-Movies-HD.png",tvN Movies
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://teohdtv.github.io/thumbs/INT/TVE.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
