@@ -518,7 +518,7 @@ http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
 http://94.230.128.105:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="kultura-pl2" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
 http://94.230.128.105:8080/Rossia_K/index.m3u8
-#EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24 International
 http://stream01.vnet.am/Rossia24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
@@ -539,19 +539,19 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Friday-Int.png",Пятница! International
 https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Звезда International
+#EXTINF:-1 tvg-id="zvezda" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Звезда
 http://stream01.vnet.am/Zvezda/mono.m3u8
-#EXTINF:-1 tvg-id="mir-kz" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР International
+#EXTINF:-1 tvg-id="mir-kz" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ International (HD)
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ International
 http://s3.merlive.am/tnthd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ International
+#EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
 http://stream01.vnet.am/MuzTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
 http://s1.merlive.am:80/chetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
 http://s1.merlive.am:80/stslove/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tnt4" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4
+#EXTINF:-1 tvg-id="tnt4-international" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4 International
 http://s3.merlive.am/tnt4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
 http://stream01.vnet.am/Channel_122/tracks-v1a1/mono.m3u8
