@@ -517,9 +517,8 @@ http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Пятый канал
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 tvg-id="kultura-pl2" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
+http://94.230.128.105:8080/Rossia_K/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 http://stream01.vnet.am/Rossia24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
