@@ -917,6 +917,8 @@ http://s3.merlive.am:80/avto24/tracks-v1a1/mono.m3u8
 http://s1.merlive.am:80/Avtoplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOKSTV.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Planeta.png",Матч! Планета
+http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RPL.png",Матч! Премьер
 http://s1.merlive.am:80/matchpremier/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FUTBOL.png",Телеканал Футбол
