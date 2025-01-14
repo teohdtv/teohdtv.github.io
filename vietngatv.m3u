@@ -75,42 +75,42 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" group-title="💙| VTC" group-logo="https://teohdtv.github.io/thumbs/Groups/VTC.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC1.png",VTC1 Infocard
 http://125hvt.ddns.net:21585/vtc1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC2.png",VTC2
+#EXTINF:-1 tvg-id="vtc2hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC2.png",VTC2 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC3.png",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC3.png",VTC3 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC4.png",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC4.png",VTC4 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC5.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC5.png",VTC5 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC6.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC6.png",VTC6 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7.png",VTC7 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc8hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC8.png",VTC8
+#EXTINF:-1 tvg-id="vtc8hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC8.png",VTC8 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC9.png",VTC9
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC9.png",VTC9 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC10.png",VTC10
+#EXTINF:-1 tvg-id="vtc10hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC10.png",VTC10 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc10hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC11.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC11.png",VTC11 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC14.png",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC14.png",VTC14 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc14_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC16.png",VTC16
+#EXTINF:-1 tvg-id="vtc16hd" group-title="💙| VTC" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC16.png",VTC16 Infocard
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
 
