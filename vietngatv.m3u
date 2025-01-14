@@ -548,7 +548,7 @@ http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4=.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-https://s83.chas.tv:8082/chas/rossiya24-hq.stream/playlist.m3u8
+http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
 http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
