@@ -128,10 +128,6 @@ http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/VNEWS.png",VNews — Truyền Hình Thông Tấn Xã Việt Nam Infocard
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/NDTV.png",Truyền Hình Nhân Dân Infocard
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/National/QPVN.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 
