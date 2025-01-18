@@ -577,6 +577,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
 #EXTINF:-1 tvg-id="tnv-planeta" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNV.png",ТНВ-Планета
 http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="yugra" tvg-logo="https://teohdtv.github.io/thumbs/SNG/UGRA.png" group-title="🇷🇺| Kênh khu vực",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/1HD.png",1 HD Music Television
 http://91.247.68.229:8000/play/eee/index.m3u8
