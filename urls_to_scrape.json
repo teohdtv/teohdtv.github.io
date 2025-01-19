@@ -1,0 +1,50 @@
+[
+    {
+        "url": "http://telik.live/pervyj-kanal.html",
+        "tvg_id": "pervyj-kanal"
+    },
+    {
+        "url": "https://tvonline.live/russia1-online.php",
+        "tvg_id": "rossiya-1"
+    },
+    {
+        "url": "https://tvonline.live/ntv-online.php",
+        "tvg_id": "ntv"
+    },
+    {
+        "url": "https://tvonline.live/5kanal-online.php",
+        "tvg_id": "pyatyj-kanal"
+    },
+    {
+        "url": "http://oneliketv.net/sts.html",
+        "tvg_id": "sts"
+    },
+    {
+        "url": "http://telik.live/domashnij.html",
+        "tvg_id": "domashnij"
+    },
+     {
+        "url": "https://tv-radio.online/tv/tv_3",
+        "tvg_id": "tv-3"
+    },
+     {
+        "url": "http://see-me.ru/online-tv/paytnica.html",
+        "tvg_id": "pyatnitsa"
+    },
+    {
+        "url": "http://telik.live/tnt.html",
+        "tvg_id": "tnt"
+    },
+    {
+        "url": "https://tvonline.live/cinema-online.php",
+        "tvg_id": "cinema"
+    },
+    {
+        "url": "http://telik.live/ostrosyuzhetnoe-hd.html",
+        "tvg_id": "ostrosyuzhetnoe-hd"
+    },
+    {
+        "url": "https://tvonline.live/domkino-premium-hd-online.php",
+        "tvg_id": "dom-kino-premium"
+    }
+]
