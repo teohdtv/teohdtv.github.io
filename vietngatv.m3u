@@ -36,44 +36,31 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab2/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab4/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV5.png",ON E Channel
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab5/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV7.png",ON O2TV
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab7/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV8.png",ON BiBi
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV9.png",ON Info TV
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab9/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV10.png",ON Cine
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab10/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV12.png",ON Style TV
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab12/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab15/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VFAMILY.png",ON VFamily
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab20/index.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" group-logo="https://teohdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV1.png",HTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -119,12 +106,52 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7_todayTV.png",SCTV2 - todayTV
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8?
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" group-logo="https://teohdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv1hd.png",SCTV1
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7_todayTV.png",SCTV2 - todayTV
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv3hd.png",SCTV3 - SEE
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5.png",SCTV5 - SCJ TV Shopping
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - Fim 360
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv6/index.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv7hd.png",SCTV7
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/Other/VITV.jpg",SCTV8 - VITV
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv9hd.png",SCTV9
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/vtv-hyundai.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv11hd.png",SCTV11
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv12hd.png",SCTV12
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv13hd.png",SCTV13
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv14hd.png",SCTV14 - Kênh Phim Việt
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv14/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv16hd.png",SCTV16
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv18hd.png",SCTV18
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv19hd.png",SCTV19 - Thanh Thiếu Niên
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv20hd.png",SCTV20
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv21hd.png",SCTV21 - Việt Nam Ký Ức
+https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctvhdpth.png",SCTV Phim TH
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 
@@ -185,7 +212,7 @@ https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/mien-tay.png",THĐT2 HD | TH Đồng Tháp
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hau_giang.png",HGTV HD | TH Hậu Giang
-https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
+https://hgtvdigital.vn/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/kien_giang.png",KG HD | TH Kiên Giang
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/kien_giang1.png",KG1 HD | TH Kiên Giang
@@ -318,7 +345,7 @@ http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax Asia
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax Asia
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/angel_tv.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
@@ -402,10 +429,14 @@ http://49.0.64.96:8007/France24
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/GOLF.png",Golf Channel Asia
 http://49.0.64.96:8007/GOLF
+#EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/HBO.png",HBO Asia
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/HGTV.png" group-title="🌿| Khám phá",HGTV Asia
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ID.png",Investigation Discovery Asia
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 #EXTINF:-1 tvg-id="KBSKorea.kr" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_korea.png",KBS Korea
@@ -476,28 +507,6 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
-
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?
-#EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?
-#EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?
-#EXTINF:-1 tvg-id="musicbox" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/ITB/music_box.png",Music Box
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?
-#EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
-#EXTVLCOPT:http-referrer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал. Всемирная сеть
 #EXTVLCOPT:http-referrer=https://1tv.com/
