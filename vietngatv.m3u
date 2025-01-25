@@ -117,7 +117,8 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5.png",SCTV5 - SCJ TV Shopping
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - Fim 360
-https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv6/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv7hd.png",SCTV7
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/Other/VITV.jpg",SCTV8 - VITV
@@ -147,12 +148,9 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctvhdpth.png",SCTV Phim TH
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+#EXTINF:-1 tvg-id="kkidshd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k_kids.png", K+ KIDS 
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
