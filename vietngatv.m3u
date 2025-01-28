@@ -110,7 +110,7 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv1/index.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7_todayTV.png",SCTV2 - todayTV
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
-#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv3hd.png",SCTV3 - SEE
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv3hd.png",SCTV3 - SEE TV
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
@@ -131,11 +131,11 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv10/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv12hd.png",SCTV12
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv12/index.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv13hd.png",SCTV13
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv13hd.png",SCTV13 - Phụ nữ & Gia đình
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv14hd.png",SCTV14 - Kênh Phim Việt
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv14/index.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv16hd.png",SCTV16
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv16hd.png",SCTV16 - Phim Nước Ngoài Đặc Sắc
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv18hd.png",SCTV18
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv18/index.m3u8
