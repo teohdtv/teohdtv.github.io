@@ -415,7 +415,7 @@ https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/DMAX.png",DMAX Asia
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/euro_news.png",Euronews Asia
-https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8
+http://stream01.vnet.am/Channel_119/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Fashion.png",Fashion TV Asia
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-id="france24-en" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/F24_E.png",France 24 English
