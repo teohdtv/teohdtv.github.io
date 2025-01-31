@@ -507,7 +507,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал. Всемирная сеть
-#EXTVLCOPT:http-referrer=https://1tv.com/
+#EXTVLCOPT:http-referrer=https://1tv.live/
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTR.png",РТР Планета
 http://stream01.vnet.am/RTRPlaneta/tracks-v1a1/mono.m3u8
@@ -889,6 +889,12 @@ http://stream01.vnet.am/BoksTv/tracks-v1a1/mono.m3u8
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-premier" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RPL.png",Матч! Премьер
 http://s1.merlive.am:80/matchpremier/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="match-football1" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF1.png",Матч! Футбол 1
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="match-football2" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF2.png",Матч! Футбол 2
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="match-football3" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF3.png",Матч! Футбол 3
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/FUTBOL.png",Телеканал Футбол
 http://s3.merlive.am:80/futboltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOCHKA.png",ТОЧКА ОТРЫВА
