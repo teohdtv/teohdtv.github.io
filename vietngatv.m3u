@@ -464,13 +464,13 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews Channel
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews Channel
 http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://teohdtv.github.io/thumbs/INT/rockaction.png" group-title="🤣| Giải trí",ROCK Action
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="russia-today" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
+#EXTINF:-1 tvg-id="russia-today" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary
 https://hls.rt.com/hls/rtdru.m3u8
