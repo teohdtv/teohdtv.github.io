@@ -112,11 +112,11 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv1/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv3hd.png",SCTV3 - SEE TV
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv3/index.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4 - LET'S VIET
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5.png",SCTV5 - SCJ TV Shopping
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - Fim 360
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv7hd.png",SCTV7
@@ -141,7 +141,7 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv16/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv18/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv19hd.png",SCTV19 - Thanh Thiếu Niên
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv19/index.m3u8
-#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv20hd.png",SCTV20
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv20hd.png",SCTV20 - iTV Music
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv20/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv21hd.png",SCTV21 - Việt Nam Ký Ức
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
