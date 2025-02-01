@@ -622,6 +622,8 @@ http://s3.merlive.am:80/jaratv/tracks-v1a1/mono.m3u8
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="shopping-live" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SHOPPING-LIVE.png",Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Мой Мир" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MOYMIR.png",Мой Мир
+http://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Mua sắm" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YUVELIROCHKA.png",Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
