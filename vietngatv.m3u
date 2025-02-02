@@ -466,24 +466,18 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia
 http://49.0.64.96:8007/RAI_Asia
-#EXTINF:-1 tvg-id="ROCKAction.sg" tvg-logo="https://teohdtv.github.io/thumbs/INT/rockaction.png" group-title="🤣| Giải trí",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RTD.png",Russia Today Documentary
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/Macau.png",TDM Macau
 https://cdn2.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/Thrill.png",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRT.png",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TLC.png",TLC Asia
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 #EXTINF:-1 tvg-id="TravelChannelSoutheastAsia.sg" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/TRAVEL.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
-#EXTINF:-1 tvg-id="tvNAsia.hk" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/TVN.png",tvN Asia
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 #EXTINF:-1 tvg-id="tvNMoviesAsia.hk" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/TvN-Movies-HD.png",tvN Movies
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-logo="https://teohdtv.github.io/thumbs/INT/TVE.png" group-title="🌏| Đối ngoại",TVE Internacional Asia-Oceania
