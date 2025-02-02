@@ -343,8 +343,6 @@ http://live-hls-web-aja.getaj.net/AJA/01.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/animax.png",Animax Asia
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/angel_tv.png",Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",Asian Food Network
@@ -353,7 +351,7 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/arirang.png",ARIRANG World
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.hk" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN East Asia
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
@@ -447,10 +445,10 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nick Jr Asia
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/NickJr.png",Nickelodeon Asia
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nickelodeon English
+http://stream01.vnet.am/Channel_114/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="nicktoons" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nicktoons English
+https://stream01.vnet.am/Boomerang/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/nhk_premium.png",NHK World Premium
@@ -500,7 +498,7 @@ http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
-http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
+http://49.0.64.96:8007/Zoomoo
 
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал. Всемирная сеть
 #EXTVLCOPT:http-referrer=https://1tv.live/
