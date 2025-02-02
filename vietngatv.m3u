@@ -447,7 +447,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nickelodeon English
 http://stream01.vnet.am/Channel_114/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="nicktoons" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nicktoons English
+#EXTINF:-1 tvg-id="nicktoons" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nicktoons.png",Nicktoons English
 https://stream01.vnet.am/Boomerang/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
