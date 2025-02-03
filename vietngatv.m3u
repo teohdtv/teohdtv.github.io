@@ -520,8 +520,8 @@ http://s83.chas.tv:8081/chas/tvc-hq.stream/playlist.m3u8
 http://stream01.vnet.am/RenTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="sts-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС International
-https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="sts" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DOM.png",Домашний International
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3 International
