@@ -509,7 +509,7 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24 International
 http://stream01.vnet.am/Rossia24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
-https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
@@ -517,7 +517,7 @@ http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/tvc-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ International
-https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+http://stream01.vnet.am/RenTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SPAS.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sts-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC.png",СТС International
@@ -527,7 +527,7 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TV3.png",ТВ-3 International
 http://stream01.vnet.am/Channel_121/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Friday-Int.png",Пятница! International
-https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
+http://stream01.vnet.am/Pyatnica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
 http://stream01.vnet.am/Zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
