@@ -148,10 +148,12 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctvhdpth.png",SCTV Phim Tổng Hợp
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
 
+#EXTINF:-1 tvg-id="kactionhd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/kns.png",K+ ACTION 
+https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
+https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k_kids.png", K+ KIDS 
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
-http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
 https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
@@ -360,6 +362,8 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/boxmovie/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
@@ -567,8 +571,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/360-NEWS.png",360° НОВОСТИ HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="8kanal-eu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/8TV.png" group-title="🤣| Giải trí",8 Канал International
-http://85.187.13.40:18000/8tv
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ENISEY.png" group-title="🇷🇺| Kênh khu vực",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://teohdtv.github.io/thumbs/SNG/K24.png" group-title="🇷🇺| Kênh khu vực",Катунь 24
