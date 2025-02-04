@@ -451,10 +451,6 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nick.png",Nickelodeon English
-http://stream01.vnet.am/Channel_114/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="nicktoons" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/Nicktoons.png",Nicktoons English
-https://stream01.vnet.am/Boomerang/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/nhk_premium.png",NHK World Premium
@@ -850,12 +846,6 @@ http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
 http://stream01.vnet.am/BoksTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Planeta.png",Матч! Планета
 http://stream02.vnet.am/MatchPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="match-football1" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF1.png",Матч! Футбол 1
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football2" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF2.png",Матч! Футбол 2
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="match-football3" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MF3.png",Матч! Футбол 3
-http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tochka-otryva" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TOCHKA.png",ТОЧКА ОТРЫВА
 http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/UDAR.png",Удар
