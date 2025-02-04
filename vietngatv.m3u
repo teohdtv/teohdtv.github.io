@@ -600,6 +600,8 @@ http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/Mezzo-live.png",Mezzo Live HD
+http://213.226.137.140:81/tl/l56/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
 #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
 http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
