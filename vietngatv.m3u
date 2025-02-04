@@ -247,7 +247,7 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/gia_lai.png",THGL | TH Gia Lai
 https://tv.gialaitv.vn/tv.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hue.png",HueTV | Truyền Hình Huế
+#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/hue.png",TRT | Truyền Hình Thành Phố Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://teohdtv.github.io/thumbs/Diaphuong/khanh_hoa.png",KTV HD | TH Khánh Hòa
@@ -352,11 +352,11 @@ https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/arirang_1ch/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.hk" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/AXN.png",AXN East Asia
 http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCE.png",BBC Earth
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCE.png",BBC Earth Asia
 https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/bbclife.png",BBC Livestyle
+#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/bbclife.png",BBC Livestyle Asia
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/BBCN.png",BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
@@ -451,6 +451,8 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/LOVE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://teohdtv.github.io/thumbs/INT/NNTV.png" group-title="🌏| Đối ngoại",Nei Monggol TV
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLS-FTA/NeigMGL.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/nhk_premium.png",NHK World Premium
@@ -464,8 +466,6 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/SPO2.png",SPOTV2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/PHXN.png",Phoenix Infonews Channel
-http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/RAI.png",Rai Italia
 http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="russia-today" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RT.png",Russia Today
