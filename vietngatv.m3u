@@ -637,6 +637,8 @@ http://flussonic.salomtv.uz/Vgostahuskazki/tracks-v1a1/index.m3u8
 http://stream01.vnet.am/Mult/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="multimania" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Multi.png",Мультиландия
 http://flussonic.salomtv.uz/Multilandiya/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="o_" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/O.png",О!
+https://cdn4.skygo.mn/live/disk1/O_Int/HLS-FTA/O_Int.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RIL.png",Рыжий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s57/index.m3u8
