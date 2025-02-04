@@ -114,7 +114,7 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4 - LET'S VIET
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv4/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5.png",SCTV5 - SCJ TV Shopping
+#EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5hd.png",SCTV5 - SCJ TV Shopping
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -125,7 +125,7 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv7/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv9hd.png",SCTV9
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv9/index.m3u8
-#EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/vtv-hyundai.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
+#EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv10hd.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv11hd.png",SCTV11
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv11/index.m3u8
