@@ -1,0 +1,337 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+1)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+3)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+5)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (EURO) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (USA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия РТР HD720 (СНГ)
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия РТР HD720 (ASIA)
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 Int.
+http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы HD (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",360° НОВОСТИ
+http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWS.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",360° НОВОСТИ HD
+http://dmi3y-tv.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360°
+http://dmi3y-tv.ru/hls/smotrim/CH_360TV.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360° HD
+http://dmi3y-tv.ru/hls/smotrim/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Вести FM HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Радио России HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF:-1 group-title="АБАКАН",Россия 1 (+4) (Абакан)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_ABAKAN.m3u8
+#EXTINF:-1 group-title="АБАКАН",Россия 24 (Абакан)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_ABAKAN.m3u8
+#EXTINF:-1 group-title="АСТРАХАНЬ",Россия 1 HD (+1) (Астрахань)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_ASTRH.m3u8
+#EXTINF:-1 group-title="АСТРАХАНЬ",Россия 24 (Астрахань)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_ASTRH.m3u8
+#EXTINF:-1 group-title="БАРНАУЛ",Россия 1 (+4) (Барнаул)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_BUL.m3u8
+#EXTINF:-1 group-title="БАРНАУЛ",Россия 24 (Барнаул)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_BUL.m3u8
+#EXTINF:-1 group-title="БЕЛГОРОД",Россия 1 HD (+0) (Белгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_BELG.m3u8
+#EXTINF:-1 group-title="БЕЛГОРОД",Россия 24 (+0) (Белгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_BELG.m3u8
+#EXTINF:-1 group-title="БЛАГОВЕЩЕНСК",Россия 1 HD (+6) (Благовещенск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_DV_BLAG.m3u8
+#EXTINF:-1 group-title="БЛАГОВЕЩЕНСК",Россия 24 (+6) (Благовещенск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_DV_BLAG.m3u8
+#EXTINF:-1 group-title="БРЯНСК",Россия 1 HD (+0) (Брянск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_BRYANSK.m3u8
+#EXTINF:-1 group-title="ВЛАДИВОСТОК",Россия 1 (+7) (Владивосток)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_DV_VLD.m3u8
+#EXTINF:-1 group-title="ВЛАДИВОСТОК",Россия 24 (Владивосток)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_DV_VLD.m3u8
+#EXTINF:-1 group-title="ВЛАДИМИР",Россия 24 (Владимир)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_VLAD.m3u8
+#EXTINF:-1 group-title="ВОЛГОГРАД",Россия 1 HD (+0) (Волгоград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_VGRAD.m3u8
+#EXTINF:-1 group-title="ВОЛГОГРАД",Россия 24 (+0) (Волгоград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_VGRAD.m3u8
+#EXTINF:-1 group-title="ВОЛГОГРАД",Волгоград 24 (Волгоград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 group-title="ВОЛГОГРАД",Волгоград 24 HD (Волгоград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 group-title="ВОЛОГДА",Россия 1 (+0) (Вологда)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_VOL.m3u8
+#EXTINF:-1 group-title="ВОЛОГДА",Россия 24 (Вологда)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_VOL.m3u8
+#EXTINF:-1 group-title="ЕКАТЕРИНБУРГ",Россия 1 HD (+2) (Екатеринбург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_EKT.m3u8
+#EXTINF:-1 group-title="ЕКАТЕРИНБУРГ",Россия 24 (+2) (Екатеринбург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_EKT.m3u8
+#EXTINF:-1 group-title="ИВАНОВО",Россия 1 HD (+0) (Иваново)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_IVAN.m3u8
+#EXTINF:-1 group-title="ИВАНОВО",Россия 24 (Иваново)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_IVAN.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 1 (+5) (Иркутск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
+#EXTINF:-1 group-title="ИРКУТСК",Россия 24 (Иркутск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_IRK.m3u8
+#EXTINF:-1 group-title="КАЛИНИНГРАД",Россия 1 HD (-1) (Калининград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KLGR.m3u8
+#EXTINF:-1 group-title="КАЛИНИНГРАД",Россия 24 (Калининград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_KLGR.m3u8
+#EXTINF:-1 group-title="КАЛИНИНГРАД",Запад 24 (Калининград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 group-title="КАЛИНИНГРАД",Запад 24 HD (Калининград)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 group-title="КАЛУГА",Россия 1 HD (+0) (Калуга)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KALUGA.m3u8
+#EXTINF:-1 group-title="КАЛУГА",Россия 24 (+0) (Калуга)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_KALUGA.m3u8
+#EXTINF:-1 group-title="КЕМЕРОВО",Россия 1 HD (+4) (Кемерово)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KEM.m3u8
+#EXTINF:-1 group-title="КЕМЕРОВО",Россия 24 (Кемерово)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_KEM.m3u8
+#EXTINF:-1 group-title="КИРОВ",Россия 1 HD (+0) (Киров)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KIROV.m3u8
+#EXTINF:-1 group-title="КОСТРОМА",Россия 1 HD (+0) (Кострома)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KOSTROMA.m3u8
+#EXTINF:-1 group-title="КРАСНОДАР",Краснодар HD (Краснодар)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_KRASNODARHD_KRDAR.m3u8
+#EXTINF:-1 group-title="КУРГАН",Россия 1 HD (+2) (Курган)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_KRG.m3u8
+#EXTINF:-1 group-title="ЛИПЕЦК",Россия 1 HD (+0) (Липецк)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_LIPETSK.m3u8
+#EXTINF:-1 group-title="ЛИПЕЦК",Россия 24 (Липецк)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_LIPETSK.m3u8
+#EXTINF:-1 group-title="МАГАДАН",Россия 1 HD (+8) (Магадан)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_DV_MGDN.m3u8
+#EXTINF:-1 group-title="МАГАДАН",Россия 24 (Магадан)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_DV_MGDN.m3u8
+#EXTINF:-1 group-title="МАЙКОП",Россия 1 HD (+0) (Майкоп)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_MAYK.m3u8
+#EXTINF:-1 group-title="МАХАЧКАЛА",Россия 1 (+0) (Махачкала)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_MAHACHK.m3u8
+#EXTINF:-1 group-title="МАХАЧКАЛА",Россия 24 (Махачкала)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_MAHACHK.m3u8
+#EXTINF:-1 group-title="МОСКВА",Москва 24 (Москва) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 group-title="МУРМАНСК",Россия 1 (+0) (Мурманск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_MURM.m3u8
+#EXTINF:-1 group-title="МУРМАНСК",Россия 24 (+0) (Мурманск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_MURM.m3u8
+#EXTINF:-1 group-title="НАЛЬЧИК",Россия 1 HD (+0) (Нальчик)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_NALCH.m3u8
+#EXTINF:-1 group-title="НАЛЬЧИК",Россия 24 (Нальчик)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_NALCH.m3u8
+#EXTINF:-1 group-title="НИЖНИЙ НОВГОРОД",Россия 1 (+0) (Нижний Новгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_NN.m3u8
+#EXTINF:-1 group-title="НИЖНИЙ НОВГОРОД",Россия 24 (+0) (Нижний Новгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_NN.m3u8
+#EXTINF:-1 group-title="НИЖНИЙ НОВГОРОД",Нижний Новгород 24 (Нижний Новгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 group-title="НИЖНИЙ НОВГОРОД",Нижний Новгород 24 HD (Нижний Новгород)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 group-title="НОВОСИБИРСК",Россия 24 (Новосибирск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_NSK.m3u8
+#EXTINF:-1 group-title="НОВОСИБИРСК",Сибирь 24 (Новосибирск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 group-title="НОВОСИБИРСК",Сибирь 24 HD (Новосибирск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 group-title="ОМСК",Россия 1 HD (+3) (Омск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_OMSK.m3u8
+#EXTINF:-1 group-title="ОМСК",Россия 24 (+3) (Омск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_OMSK.m3u8
+#EXTINF:-1 group-title="ОРЕЛ",Россия 24 (Орел)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_ORL.m3u8
+#EXTINF:-1 group-title="ОРЕНБУРГ",Россия 1 HD (+2) (Оренбург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_ORB.m3u8
+#EXTINF:-1 group-title="ОРЕНБУРГ",Россия 24 (Оренбург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_ORB.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1 HD (+0) (Пенза)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_PENZA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 24 (Пенза)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_PENZA.m3u8
+#EXTINF:-1 group-title="ПЕРМЬ",Россия 1 (+2) (Пермь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_PERM.m3u8
+#EXTINF:-1 group-title="ПЕРМЬ",Россия 24 (Пермь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_PERM.m3u8
+#EXTINF:-1 group-title="ПЕТРОЗАВОДСК",Россия 1 HD (+0) (Петрозаводск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_PZAV.m3u8
+#EXTINF:-1 group-title="ПЕТРОЗАВОДСК",Россия 24 (Петрозаводск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_PZAV.m3u8
+#EXTINF:-1 group-title="ПСКОВ",Россия 1 HD (+0) (Псков)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_PSKV.m3u8
+#EXTINF:-1 group-title="ПСКОВ",Россия 24 (Псков)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_PSKV.m3u8
+#EXTINF:-1 group-title="РОСТОВ НА ДОНУ",Россия 1 HD (+0) (Ростов на Дону)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_RD.m3u8
+#EXTINF:-1 group-title="РОСТОВ НА ДОНУ",Россия 24 (Ростов на Дону)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_RD.m3u8
+#EXTINF:-1 group-title="РЯЗАНЬ",Россия 1 HD (+0) (Рязань)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_RYAZ.m3u8
+#EXTINF:-1 group-title="РЯЗАНЬ",Россия 24 (Рязань)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_RYAZ.m3u8
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",Россия 1 HD (+0) (Санкт-Петербург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_SPB.m3u8
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",Россия 24 (+0) (Санкт-Петербург)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",Санкт-Петербург HD (Санкт-Петербург) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+#EXTINF:-1 group-title="САНКТ-ПЕТЕРБУРГ",Лен ТВ 24 HD (Санкт-Петербург) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657.m3u8
+#EXTINF:-1 group-title="САРАТОВ",Россия 1 HD (+1) (Саратов)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_SARATOV.m3u8
+#EXTINF:-1 group-title="САРАТОВ",Россия 24 (Саратов)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SARATOV.m3u8
+#EXTINF:-1 group-title="СМОЛЕНСК",Россия 1 HD (+0) (Смоленск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_SMOL.m3u8
+#EXTINF:-1 group-title="СМОЛЕНСК",Россия 24 (Смоленск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SMOL.m3u8
+#EXTINF:-1 group-title="СТАВРОПОЛЬ",Россия 1 (+0) (Ставрополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_STAVR.m3u8
+#EXTINF:-1 group-title="СТАВРОПОЛЬ",Россия 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_STAVR.m3u8
+#EXTINF:-1 group-title="СТАВРОПОЛЬ",Кавказ 24 (Ставрополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24_STAVR.m3u8
+#EXTINF:-1 group-title="СТАВРОПОЛЬ",Кавказ 24 HD (Ставрополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_KAVKAZ24HD_STAVR.m3u8
+#EXTINF:-1 group-title="ТАМБОВ",Россия 1 HD (+0) (Тамбов)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_TAMB.m3u8
+#EXTINF:-1 group-title="ТАМБОВ",Россия 24 (Тамбов)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_TAMB.m3u8
+#EXTINF:-1 group-title="ТВЕРЬ",Россия 1 HD (+0) (Тверь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_TVER.m3u8
+#EXTINF:-1 group-title="ТВЕРЬ",Россия 24 (Тверь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_TVER.m3u8
+#EXTINF:-1 group-title="ТОМСК",Россия 1 HD (+4) (Томск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_TOMSK.m3u8
+#EXTINF:-1 group-title="ТОМСК",Россия 24 (Томск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_TOMSK.m3u8
+#EXTINF:-1 group-title="ТУЛА",Россия 1 HD (+0) (Тула)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_TULA.m3u8
+#EXTINF:-1 group-title="ТЮМЕНЬ",Югра HD (Тюмень)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 group-title="УЛАН-УДЭ",Россия 1 HD (+5) (Улан-Удэ)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_UUDE.m3u8
+#EXTINF:-1 group-title="УЛАН-УДЭ",Россия 24 (Улан-Удэ)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_UUDE.m3u8
+#EXTINF:-1 group-title="УЛЬЯНОВСК",Россия 1 (+1) (Ульяновск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_UL.m3u8
+#EXTINF:-1 group-title="УЛЬЯНОВСК",Россия 24 (Ульяновск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_UL.m3u8
+#EXTINF:-1 group-title="УФА",Россия 1 (+2) (Уфа)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_UFA.m3u8
+#EXTINF:-1 group-title="УФА",Россия 24 (Уфа)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_UFA.m3u8
+#EXTINF:-1 group-title="УФА",Башкортостан 24 (Уфа)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 group-title="УФА",Башкортостан 24 HD (Уфа)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 group-title="ХАБАРОВСК",Россия 1 HD (+7) (Хабаровск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_DV_HVSK.m3u8
+#EXTINF:-1 group-title="ХАБАРОВСК",Россия 24 (Хабаровск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_DV_HVSK.m3u8
+#EXTINF:-1 group-title="ЧЕЛЯБИНСК",Россия 24 (Челябинск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_CHEL.m3u8
+#EXTINF:-1 group-title="ЧЕЛЯБИНСК",Урал 24 (Челябинск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="ЧЕЛЯБИНСК",Урал 24 HD (Челябинск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 group-title="КАРАЧАЕВО-ЧЕРКЕСИЯ",Россия 1 (+0) (Карачаево-Черкесия)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHERKS.m3u8
+#EXTINF:-1 group-title="КАРАЧАЕВО-ЧЕРКЕСИЯ",Россия 24 (Карачаево-Черкесия)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_CHERKS.m3u8
+#EXTINF:-1 group-title="ЧИТА",Россия 1 HD (+6) (Чита)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_CHITA.m3u8
+#EXTINF:-1 group-title="ЧИТА",Россия 24 (Чита)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_CHITA.m3u8
+#EXTINF:-1 group-title="ЭЛИСТА",Россия 1 (+0) (Элиста)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_ELISTA.m3u8
+#EXTINF:-1 group-title="ЭЛИСТА",Россия 24 (Элиста)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_ELISTA.m3u8
+#EXTINF:-1 group-title="ЯКУТСК",Россия 1 HD (+6) (Якутск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_DV_YKT.m3u8
+#EXTINF:-1 group-title="ЯКУТСК",Россия 24 (Якутск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_DV_YKT.m3u8
+#EXTINF:-1 group-title="ЯРОСЛАВЛЬ",Россия 1 (+0) (Ярославль)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_YARL.m3u8
+#EXTINF:-1 group-title="ЯРОСЛАВЛЬ",Россия 24 (Ярославль)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_YARL.m3u8
+#EXTINF:-1 group-title="СИМФЕРОПОЛЬ",Россия 1 (Симферополь)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SMRPL.m3u8
+#EXTINF:-1 group-title="ДОНЕЦК",Россия 1 (Донецк)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_DONETSK.m3u8
+#EXTINF:-1 group-title="ЛУГАНСК",Россия 1 (Луганск)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_LUGANSK.m3u8
