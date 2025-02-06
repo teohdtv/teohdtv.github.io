@@ -628,7 +628,7 @@ udp://@225.1.4.131:30120
 udp://@225.1.4.132:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hòa Bình HD
 udp://@225.1.4.134:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play",Huế
+#EXTINF:0 tvg-id="" group-title="FPT Play",Thành Phố Huế
 udp://@225.1.4.135:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Hưng Yên
 udp://@225.1.4.136:30120
