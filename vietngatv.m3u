@@ -514,9 +514,8 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
 http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="otr-pl4" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
+http://31.148.48.15/OTR/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр International
 https://cdn2.skygo.mn/live/disk1/TV_center/HLS-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ International
@@ -531,8 +530,8 @@ http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
 https://cdn2.skygo.mn/live/disk1/TV3Russia/HLS-FTA/TV3Russia.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Friday-Int.png",Пятница! International
 http://stream01.vnet.am/Pyatnica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zvezda-pl2" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
-http://stream01.vnet.am/Zvezda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zvezda-pl4" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ZVEZDA.png",Телеканал Звезда
+http://31.148.48.15/Zvezda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-pl4" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MIR.png",МИР
 http://31.148.48.15/Mir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT.png",ТНТ International
