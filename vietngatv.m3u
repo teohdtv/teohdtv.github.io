@@ -839,6 +839,8 @@ http://ott-cdn.ucom.am/s79/04.m3u8
 http://stream01.vnet.am/Fightbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kxl" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KHL.png",KHL
 http://stream01.vnet.am/Channel_113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kxl-hd" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KHLPRIME.png",KHL Prime
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/SPORT.png",Viju+ Sport
 http://stream02.vnet.am/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Avto-Plus.png",Авто плюс
@@ -879,8 +881,6 @@ https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/INT/NHK.png" radio="true",NHK World Radio
-https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/VESTI.png" radio="true",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO_M.png" radio="true",Маяк
