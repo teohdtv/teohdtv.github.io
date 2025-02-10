@@ -362,8 +362,6 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/BM1.png",Box Movie 1
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/boxmovie/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
@@ -434,14 +432,10 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.my" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/GOLF.png",Golf Channel Asia
 http://49.0.64.96:8007/GOLF
-#EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/HBO.png",HBO Asia
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://teohdtv.github.io/thumbs/INT/HGTV.png" group-title="🌿| Khám phá",HGTV Asia
 https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/hollywood/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/INT/ID.png",Investigation Discovery Asia
 https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 #EXTINF:-1 tvg-id="KBSKorea.kr" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/kbs_korea.png",KBS Korea
@@ -498,6 +492,17 @@ https://cdn4.skygo.mn/live/disk1/Warner/HLS-FTA/Warner.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
+
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/planetearth/index.m3u8
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/hollywood/index.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/DF.png",Dr.Fit
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/drfit/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/WOMAN.png",Woman
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/woman/index.m3u8
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HPK.png",Happy Kids
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/happykid/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORT.png",Первый канал-Азия (Asia)
 http://flussonic.salomtv.uz/Perviy_Kanal/tracks-v1a1/mono.m3u8
