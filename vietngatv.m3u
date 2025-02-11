@@ -339,9 +339,7 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Đối ngoại" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ABCA.png",ABC Australia
 http://49.0.64.96:8007/ABC
-#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="📰| Tin tức" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ALJ.png",Aljazeera Arabic
-http://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/INT/ALJ.png",Aljazeera English
+#EXTINF:-1 tvg-id="al-jazeera-int" group-title="📰| Tin tức" group-logo="https://i.imgur.com/lTODs0q.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ALJ.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/ANIMAL.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
@@ -484,8 +482,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_asia.png",TV5Monde ASIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/tv5_monde_style.png",TV5Monde Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/INT/WBTV.png",Warner Bros TV
 https://cdn4.skygo.mn/live/disk1/Warner/HLS-FTA/Warner.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://teohdtv.github.io/thumbs/INT/WION.png" group-title="🌏| Đối ngoại",Wion
