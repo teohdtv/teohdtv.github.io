@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=7373146,RESOLUTION=1920x1080
+https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
