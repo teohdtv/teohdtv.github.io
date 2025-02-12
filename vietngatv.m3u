@@ -489,7 +489,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/zoomoo.png",ZooMoo
 http://49.0.64.96:8007/Zoomoo
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/Groups/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" group-logo="https://teohdtv.github.io/thumbs/ITB/ITB.png" tvg-logo="https://teohdtv.github.io/thumbs/ITB/PE.png",Planet Earth
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/planetearth/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://teohdtv.github.io/thumbs/ITB/HC.png",Hollywood Classics
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/hollywood/index.m3u8
