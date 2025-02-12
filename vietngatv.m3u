@@ -39,7 +39,7 @@ https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="onphimviet" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab2/index.m3u8
-#EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV3.png",ON Sports
+#EXTINF:-1 tvg-id="onsports" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV3.png",ON Sports
 https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="onmovies" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab4/index.m3u8
@@ -59,11 +59,11 @@ https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab10/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab12/index.m3u8
 #EXTINF:-1 tvg-id="onmusic" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab15/index.m3u8
-#EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/BDTV.png",ON Football
+#EXTINF:-1 tvg-id="onfootball" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/BDTV.png",ON Football
 https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="ontrending" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab17/index.m3u8
-#EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/TTTTHD.png",ON Sports News
+#EXTINF:-1 tvg-id="onsportsnews" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/TTTTHD.png",ON Sports News
 https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="onviedramas" group-title="🧡| VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab19/index.m3u8
@@ -92,7 +92,7 @@ https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/HTV9.png",HTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/HTV/THETHAO.png",HTV Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
