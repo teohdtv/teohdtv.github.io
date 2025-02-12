@@ -899,8 +899,3 @@ http://chanson.hostingradio.ru:8041/chanson256.mp3
 http://stream.newradio.ru/moscow.novoe.aacp
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Retro.png" radio="true",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-
-#EXTINF:-1 group-title="❌| Treo thông báo dừng phát sóng sau ngày 15/01/2025",VNews Infocard
-https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
-#EXTINF:-1 group-title="❌| Treo thông báo dừng phát sóng sau ngày 15/01/2025",Nhân Dân TV Infocard
-https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
