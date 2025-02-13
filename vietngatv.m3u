@@ -517,17 +517,15 @@ http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-Mir.png",НТВ МИР
 http://stream02.vnet.am/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/5.png",Петербург 5 канал
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/pyatyi-hq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="kultura-pl4" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=iptv50na50
+#EXTINF:-1 tvg-id="kultura" group-title="🎭| Văn hóa" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RK.png",Россия Культура
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="📰| Tin tức" tvg-logo="https://teohdtv.github.io/thumbs/SNG/R24.png",Россия 24 International
 http://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KARUSEL.png",Карусель International
 http://stream02.vnet.am/Karusel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🌐| Thiết yếu" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OTR.png",Общественное Телевидение России
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/otrtv-hq.stream/playlist.m3u8
+http://185.23.80.28:8080/OTR/index.m3u8?token=iptv50na50
 #EXTINF:-1 tvg-id="tvci" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TVC.png",ТВ Центр International
 https://cdn2.skygo.mn/live/disk1/TV_center/HLS-FTA/TV_center.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/SNG/REN.png",Рен ТВ International
@@ -551,21 +549,17 @@ https://cdn2.skygo.mn/live/disk1/THT/HLS-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ.png",МУЗ-ТВ
 http://stream01.vnet.am/MuzTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CE.png",Че
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8
+http://185.23.80.28:8080/Che/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sts-love" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/CTC-LOVE.png",СТС Love
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/stslove.stream/playlist.m3u8
+http://185.23.80.28:8080/STSLove/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4-international" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT4.png",ТНТ4 International
 https://stream02.vnet.am/THTComedy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TNT-MUSIC.png",ТНТ Music
 http://stream01.vnet.am/Channel_122/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/2X2.png",2x2
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/dvatv.stream/playlist.m3u8
+http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="super" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/SUB.png",Суббота
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/supertv-hq.stream/playlist.m3u8
+http://185.23.80.28:8080/Super/index.m3u8?token=test
 #EXTINF:-1 tvg-id="yu" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/YU.png",Телеканал Ю
 http://tv.streams.baikal-telecom.net:8080/U/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUTV.png",RU.TV
@@ -602,21 +596,18 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DEL.png",Bridge Deluxe
 http://213.226.137.140:81/tl/l322/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/HITS.png",Bridge Hits
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/bridgetvhitstv.stream/playlist.m3u8
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSONGTV.png",Bridge Русский Хит
 http://stream01.vnet.am/Channel_115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/EUROPAPLUSTV.png",Europa Plus TV
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/europe.stream/playlist.m3u8
+http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-id="mezzo-live-hd" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/Mezzo-live.png",Mezzo Live HD
 http://213.226.137.140:81/tl/l56/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Lami.png",Ля-Минор
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/lyaminor.stream/playlist.m3u8
+http://flussonic.salomtv.uz/lya_minor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/MUZ1.png",Музыка Первого
 https://cdn2.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Strana.png",Страна FM ТВ
@@ -718,8 +709,7 @@ http://stream01.vnet.am/ZeeTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="indiyskoe-kino" tvg-logo="https://teohdtv.github.io/thumbs/SNG/INDIANKOE.png",Индийское кино
 http://flussonic.salomtv.uz/Indiyskoe_Kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-id="illuzion-plus" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ILPLUS.png",Иллюзион+
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/illyuzionpl.stream/playlist.m3u8
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RODK.png",Родное кино
 http://flussonic.salomtv.uz/Rodnoe_Kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSD.png",Русский детектив
@@ -729,8 +719,7 @@ http://95.142.88.250:80/komediya/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSROMAN.png",Русский Роман
 http://stream01.vnet.am/RusskiyRoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Rusi.png",Русский Иллюзион
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/rusillyuzion.stream/playlist.m3u8
+http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/365.png",365
 http://flussonic.salomtv.uz/365Dney/tracks-v1a1/mono.m3u8
@@ -770,12 +759,8 @@ http://31.148.48.15/Nauka_2.0/tracks-v1a1/mono.m3u8
 https://stream01.vnet.am/365Dney/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KUHNA.png",Кухня
 http://stream01.vnet.am/KukhnyaTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="oruzhie" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ORU.png",Оружие
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/oruzhie.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OXO.png",Охота и рыбалка
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/ohota.stream/playlist.m3u8
+http://flussonic.salomtv.uz/Ohota_Ribalka/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/OIR.png",Охотник и рыболов
 http://stream01.vnet.am/Channel_124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="istoria" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/HIS.png",История
@@ -786,9 +771,6 @@ http://stream01.vnet.am/Evrika/tracks-v1a1/mono.m3u8
 https://cdn2.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/PRIK.png",Приключения
 http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tayna" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Tayna.png",Тайна
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/taina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/T24.png",Техно 24
 http://flussonic.salomtv.uz/Tehno24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TONUS.png",Тонус
@@ -799,8 +781,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://teohdtv.github.io/thumbs/SNG/KVN.png",КВН
 http://stream01.vnet.am/Bober/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/nostalgiya.stream/playlist.m3u8
+http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://teohdtv.github.io/thumbs/SNG/NTV-STYLE.png" group-title="🤣| Giải trí",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s77/04.m3u8
@@ -854,8 +835,7 @@ http://tv.streams.baikal-telecom.net:8080/KHL_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/VIASAT/SPORT.png",Viju+ Sport
 http://stream02.vnet.am/AutoPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Avto-Plus.png",Авто плюс
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10) ExoPlayerLib/2.9.1
-http://s83.chas.tv:8081/chas/auto.stream/playlist.m3u8
+http://flussonic.salomtv.uz/Avto_Plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/BOKSTV.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/SNG/Planeta.png",Матч! Планета
