@@ -872,11 +872,11 @@ https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio.vovGTMekong" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/vov_giaothong.png" radio="true",VOV Giao Thông Mê Kông
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/VESTI.png" radio="true",Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO_M.png" radio="true",Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://teohdtv.github.io/thumbs/Radio/RADIO-R.png" radio="true",Радио России
-http://icecast.vgtrk.cdnvideo.ru/rrzonam
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Sputnik.png" radio="true",Радио Sputnik International
 http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Avtoradio.png" radio="true",Авторадио
@@ -886,6 +886,6 @@ http://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-shanson" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Shanson.png" radio="true",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://teohdtv.github.io/thumbs/Radio/NEW-RADIO.png" radio="true",Новое Радио
-http://stream.newradio.ru/moscow.novoe.aacp
+http://icecast.newradio.cdnvideo.ru/newradio3
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://teohdtv.github.io/thumbs/Radio/Retro.png" radio="true",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+http://retroserver.streamr.ru:8043/retro128
