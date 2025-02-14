@@ -628,8 +628,6 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/ANI.png",Ani
 http://31.148.48.15/Ani/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="gulli-girl" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/GULLI.png",Gulli Girl
-http://86.57.198.251:8181/play/1091/index.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/TIJI.png",Tiji
 http://stream01.vnet.am/Tiji/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/SNG/VGOS.png",В Гостях У Сказки
