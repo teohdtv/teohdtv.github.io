@@ -596,8 +596,6 @@ https://stream01.vnet.am/BRIDGETVDance/index.m3u8
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-hd" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/DEL.png",Bridge Deluxe
 http://213.226.137.140:81/tl/l322/index.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/HITS.png",Bridge Hits
-http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/SNG/RUSONGTV.png",Bridge Русский Хит
 http://stream01.vnet.am/Channel_115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://teohdtv.github.io/thumbs/INT/mezzo.png",Mezzo
