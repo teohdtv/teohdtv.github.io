@@ -385,7 +385,7 @@ http://125.227.210.55:8151/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CinemaWorld.my" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/CinemaWorld.png",CinemaWorld
 https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Đối ngoại" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV4.png",CCTV-4 Asia
-https://edge6a.v2h-cdn.com/cctv4/cctv4.stream/playlist.m3u8
+http://p1.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV5.png",CCTV5+
 http://49.0.64.96:8007/CCTV-5
 #EXTINF:-1 tvg-id="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CCTV14.png",CCTV-14
