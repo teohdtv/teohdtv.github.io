@@ -112,19 +112,66 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7_todayTV.png",SCTV2 - todayTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" group-logo="https://teohdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv1hd.png",SCTV1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/VTC/VTC7_todayTV.png",SCTV2 - todayTV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - FIM 360
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv3hd.png",SCTV3 - SEE TV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv4hd.png",SCTV4 - LET'S VIET
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv5hd.png",SCTV5 - SCJ TV Shopping
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv6hd.png",SCTV6 - FIM 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="kactionhd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/kns.png",K+ ACTION 
-https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k1.png",K+ CINE
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/VSTV/k_kids.png", K+ KIDS 
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv7hd.png",SCTV7
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/Other/VITV.jpg",SCTV8 - VITV
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv9hd.png",SCTV9
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv10hd.png",SCTV10 - VTV HYUNDAI HOMESHOPPING
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv11hd.png",SCTV11
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv12hd.png",SCTV12
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv13hd.png",SCTV13 - Phụ nữ & Gia đình
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv14hd.png",SCTV14 - Kênh Phim Việt
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv16hd.png",SCTV16 - Phim Nước Ngoài Đặc Sắc
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv18hd.png",SCTV18
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv19hd.png",SCTV19 - Channel T
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv20hd.png",SCTV20 - iTV Music
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctv21hd.png",SCTV21 - Việt Nam Ký Ức
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://teohdtv.github.io/thumbs/SCTV/sctvhdpth.png",SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://i.imgur.com/hGKz43E.png" tvg-logo="https://teohdtv.github.io/thumbs/National/ANTV.png",ANTV — Truyền Hình Công An Nhân Dân
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -331,13 +378,13 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📈| Kinh tế" tvg-logo="https://teohdtv.github.io/thumbs/INT/Bloomberg.png",Bloomberg Asia
 https://cdn4.skygo.mn/live/disk1/Bloomberg/HLS-FTA/Bloomberg.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/b4yTXUS.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOON.png",Cartoon Network Asia
 https://cdn2.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="BoomerangAsia.sg" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/CARTOONITO.png",Cartoonito Asia
 https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="🌈| Hoạt hình" tvg-logo="https://teohdtv.github.io/thumbs/INT/cbeebies.png",Cbeebies Asia
 https://cdn2.skygo.mn/live/disk1/Cbeebies/HLS-FTA/Cbeebies.m3u8
-#EXTINF:-1 tvg-id="CelestialMovies.hk" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Celestial.png",Celestial Movie
+#EXTINF:-1 tvg-id="CelestialMovies.hk" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://teohdtv.github.io/thumbs/INT/Celestial.png",Celestial Movie
 https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" group-title="🎬| Phim truyện" tvg-logo="https://teohdtv.github.io/thumbs/INT/Cinemax.png",Cinemax Asia
 http://125.227.210.55:8151/VideoInput/play.ts
